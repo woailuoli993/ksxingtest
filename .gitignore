@@ -7,5 +7,5 @@
 *.iml
 out
 gen
-.idea/*
+.idea/workspace.xml
 将删除 .gitignore
