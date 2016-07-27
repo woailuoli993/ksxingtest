@@ -1,4 +1,4 @@
-from elasticsearch imoort Elasticsearch
+from elasticsearch import Elasticsearch
 from datetime import datetime
 
 if __name__ == '__main__':
