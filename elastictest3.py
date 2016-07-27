@@ -12,3 +12,5 @@ if __name__ == '__main__':
         'query': {"match_all": {}},
         "size": 1
     })
+    for i in es_search_one:
+        print i, ':', es_search_one.get(i)
