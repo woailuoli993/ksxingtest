@@ -16,9 +16,12 @@ if __name__ == '__main__':
                     {
                         "query_string": {
                             "default_field": "_all",
-                            "query": "宝宝不高兴"
+                            "query": "中国人民银行采集"
                         }
                     }
+                ],
+                "filter": [
+                    {"term": {"cop_id": 1}}
                 ]
             }
         },
