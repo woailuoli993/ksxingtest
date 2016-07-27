@@ -16,7 +16,7 @@ if __name__ == '__main__':
                     {
                         "query_string": {
                             "default_field": "_all",
-                            "query": "中国人民银行采集"
+                            "query": "问爸爸"
                         }
                     }
                 ],
