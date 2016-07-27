@@ -28,5 +28,4 @@ if __name__ == '__main__':
         "size": 5,
         "_source": ["cop_id"]
     })
-    for i in es_search_one:
-        print i, ':', es_search_one.get(i)
+    print es_search_one['hits']['hits']
