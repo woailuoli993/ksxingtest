@@ -67,17 +67,17 @@ def getinfo_from_elk(url):
 
 
 if __name__ == '__main__':
-
     # url_search = 'http://localhost:9200/test/articles/_search'
     # url_create = 'http://localhost:9200/test/articles/'
-    url_conf_river = 'http://localhost:9200/_river/mongodb/_meta'
-    getqueryurl = 'http://localhost:9200/train/protestcol/_search?pretty=true'
+    # url_conf_river = 'http://localhost:9200/_river/mongodb/_meta'
+    # getqueryurl = 'http://localhost:9200/train/protestcol/_search?pretty=true'
+
     # for i in range(1, 100):
     #     data = "fox " + str(i)
     #     create_doc(url_create, {"content": data})
     # results = search(url_search, "fox")
     #  format_results(results)
-    #config_elastic_river(url_conf_river)
-    getinfo_from_elk(getqueryurl)
+    # config_elastic_river(url_conf_river)
+    # getinfo_from_elk(getqueryurl)
 
 
