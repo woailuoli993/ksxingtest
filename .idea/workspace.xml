@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c58c6021-4601-4a66-b8a6-b33e945a85dc" name="Default" comment="" />
+    <list default="true" id="c58c6021-4601-4a66-b8a6-b33e945a85dc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elastictest3.py" afterPath="$PROJECT_DIR$/elastictest3.py" />
+    </list>
     <ignored path="coreseektest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -55,8 +57,8 @@
       <file leaf-file-name="elastictest3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elastictest3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            <state relative-caret-position="569">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
                 <element signature="e#23#62#0" expanded="true" />
               </folding>
@@ -581,7 +583,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="24" width="960" height="1056" extended-state="4" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25294748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1028,8 +1030,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elastictest3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="569">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding>
             <element signature="e#23#62#0" expanded="true" />
           </folding>
