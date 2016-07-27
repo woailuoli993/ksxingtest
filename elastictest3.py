@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
     es_search_one = es.search(index='ksxing', doc_type='testqm', body={
         'query': {"match_all": {}},
-        "size": 1
+        "size": 5
     })
     for i in es_search_one:
         print i, ':', es_search_one.get(i)
