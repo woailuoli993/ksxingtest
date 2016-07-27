@@ -28,4 +28,4 @@ if __name__ == '__main__':
         "size": 5,
         "_source": ["cop_id"]
     })
-    print "xixi" if es_search_one['hits']['hits'] is None else "haha"
+    print "xixi" if es_search_one['hits']['hits'] ==[] else "haha"
