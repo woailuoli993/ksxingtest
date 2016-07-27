@@ -9,9 +9,20 @@ if __name__ == '__main__':
     #      print i, es_one.get(i)
 
     es_search_one = es.search(index='ksxing', doc_type='testqm', body={
-        'query': {"match_all": {}},
+        'query': {
+            "bool": {
+                "must": [
+                    {
+                        "query_string": {
+                            "default_field": "_all",
+                            "query": "宝宝不高兴"
+                        }
+                    }
+                ]
+            }
+        },
         "size": 5,
-        "_source": ["_id", "cop_id"]
+        "_source": ["cop_id"]
     })
     for i in es_search_one:
         print i, ':', es_search_one.get(i)
