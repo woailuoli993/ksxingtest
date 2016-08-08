@@ -41,3 +41,4 @@ https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxeeef818e566d12e6&red
     u'refresh_token': u'9ntL8bn7F9I9Di8W6QLWLY9c9t5WYlF-FA2U20mxR3O9zEPzFuqD_5U3s4zViGtrWJx-bZqvpKsFrFXOULCNK-oWhWGnJOLZwuP2kSOTnjg'}
 
 
+my_unionid = o16q3wC0re344Hw23KNLvfQ2tH-A
