@@ -41,13 +41,14 @@ class Test(unittest.TestCase):
     def is_element_present(self, how, what):
         try:
             self.driver.find_element(by=how, value=what)
-        except NoSuchElementException, e:
+        except Exception as e:
+            print e
             return False
         return True
 
     def is_alert_present(self):
         try: self.driver.switch_to_alert()
-        except Exception, e:
+        except Exception as e:
             print e
             return False
         return True
