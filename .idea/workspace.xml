@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c58c6021-4601-4a66-b8a6-b33e945a85dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mathtest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amathaddtest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ksxingtest.iml" afterPath="$PROJECT_DIR$/.idea/ksxingtest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.py" afterPath="$PROJECT_DIR$/results.py" />
-    </list>
+    <list default="true" id="c58c6021-4601-4a66-b8a6-b33e945a85dc" name="Default" comment="" />
     <ignored path="coreseektest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />

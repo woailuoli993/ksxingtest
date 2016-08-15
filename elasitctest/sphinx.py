@@ -1,5 +1,4 @@
 #_*_coding:utf-8_*_
-from test_sphinx_api import *
 
 # cl = SphinxClient()
 # cl.SetServer('localhost', 9312)     #创建链接
