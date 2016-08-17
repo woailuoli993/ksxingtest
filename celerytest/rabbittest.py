@@ -12,7 +12,7 @@ CELERY_TASK_SERIALIZER = 'json'
 app = Celery(__name__, broker=CELERY_BROKER_URL, backend=CELERY_RESULT_BACKEND)
 
 
-@app.task()
+@app.task
 def add(x, y):
     return x + y
 
