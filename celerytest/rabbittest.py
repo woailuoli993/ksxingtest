@@ -19,3 +19,10 @@ def add(x, y):
 
 if __name__=='__main__':
     pass
+
+# 神奇的config 技巧
+# 1. 设置计算结果
+CELERY_TASK_RESULT_EXPIRES=3600
+
+# 关于后台运行及日志的记录
+
