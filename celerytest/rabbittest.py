@@ -11,6 +11,7 @@ CELERY_TASK_SERIALIZER = 'json'
 
 app = Celery(__name__, broker=CELERY_BROKER_URL, backend=CELERY_RESULT_BACKEND)
 
+
 def printSome():
     print('12321')
 @app.task
