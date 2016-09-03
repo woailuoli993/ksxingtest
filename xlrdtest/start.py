@@ -18,3 +18,5 @@ def test():
 
     print table==table2
     print table.row_values(0)
+    print table.nrows
+    print table.ncols
