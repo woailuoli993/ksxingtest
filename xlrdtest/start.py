@@ -17,3 +17,4 @@ def test():
     table2 = data.sheet_by_index(0)
 
     print table==table2
+    print table.row_values(0)
