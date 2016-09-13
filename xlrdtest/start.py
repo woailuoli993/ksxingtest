@@ -18,5 +18,7 @@ def test():
 
     print table==table2
     print table.row_values(0)
+    # 获取 表的行数
     print table.nrows
+    # 获取表列数
     print table.ncols
