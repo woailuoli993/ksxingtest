@@ -13,9 +13,9 @@ while True:
     buffer = []
     while True:
         print '[~]waiting for server say...'
-        d = s.recv(2)
+        d = s.recv(4096)
         buffer.append(d)
-        if len(d) < 2:
+        if len(d) < 4096:
             break
 
     data = ''.join(buffer)

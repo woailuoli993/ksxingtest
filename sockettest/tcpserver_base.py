@@ -12,7 +12,7 @@ def tcpadd(tcpclisock, addr):
         buffer = []
         while True:
             print '[~]wating for client say...'
-            d = tcpclisock.recv(2)
+            d = tcpclisock.recv(4096)
             buffer.append(d)
             print 'get', d
             if len(d) < 2:
