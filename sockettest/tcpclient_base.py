@@ -13,10 +13,10 @@ while True:
     buffer = []
     while True:
         print '[~]waiting for server say...'
-        d = s.recv(20)
-        if len(d) < 20:
+        d = s.recv(2)
+        buffer.append(d)
+        if len(d) < 2:
             break
-    buffer.append(d)
 
     data = ''.join(buffer)
     print '->> server say:', data

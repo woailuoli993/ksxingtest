@@ -12,11 +12,11 @@ def tcpadd(tcpclisock, addr):
         buffer = []
         while True:
             print '[~]wating for client say...'
-            d = tcpclisock.recv(20)
+            d = tcpclisock.recv(2)
+            buffer.append(d)
             print 'get', d
-            if len(d) < 20:
+            if len(d) < 2:
                 break
-        buffer.append(d)
         data = ''.join(buffer)
         print '<<- client say:', data
         data = int(data)
@@ -40,7 +40,6 @@ while True:
     print "[+]get conncet from : %s , the %s one" % (addr, count)
     t = threading.Thread(target=tcpadd, args=(tcpclisock, addr))
     t.start()
-    time.sleep(2000)
 
 
 
