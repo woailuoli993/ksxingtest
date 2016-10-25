@@ -15,7 +15,7 @@ def produce():
     if con.acquire():
         while True:
             if product is None:
-                print 'produce...'
+                print('produce...')
                 product = 'anything'
 
                 # 通知消费者，商品已经生产
@@ -33,7 +33,7 @@ def consume():
     if con.acquire():
         while True:
             if product is not None:
-                print 'consume...'
+                print('consume...')
                 product = None
 
                 # 通知生产者，商品已经没了
