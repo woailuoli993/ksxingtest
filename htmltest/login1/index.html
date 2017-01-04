@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- mystyle.css-->
+    <link rel="stylesheet" href="css/mystyle.css"/>
+    <title>起个炫酷的名字</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/partclegrondstyle.css"/>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <!-- remember, jQuery is completely optional -->
+    <!-- <script type='text/javascript' src='demo/bootstrap/js/jquery-1.11.1.min.js'></script> -->
+    <script src="js/jquery.particleground.js"></script>
+    <script src='js/demo.js'></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/placeholderForCP.js"></script>
+    <script language="JavaScript">
+        function keyLogin() {
+            if (event.keyCode == 13)
+            //按Enter键的键值为13
+                document.getElementById("lbtnSubmit").click();
+            //调用登录按钮的登录事件
+        }
+    </script>
+</head>
+
+<body onkeydown="keyLogin();">
+
+<div id="particles">
+    <div id="intro">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-12">
+                    <div class="panel" style="background-color: rgba(0,0,0,0);">
+                        <div class="panel-heading myheading" style="text-align: center">
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <!--<h1 style="color: #FFFFFF;"></h1>-->
+                                    <img src="随便给个什么logo的图" id="logo2"/>
+                                    <h4 style="color: #FFFFFF; font-family: 'HanHei-SC-thin';">再给个标题</h4>
+                                </div>
+                            </div>
+                            <div style="min-height: 20px;margin-top:20px;">
+                                <Label ID="lblTip" Text="" Visible="false" ForeColor="Red"></Label>
+                            </div>
+                        </div>
+                        <div class="panel-body">
+                            <form id="form1" method="post" role="form">
+                                <div class="row myRows">
+
+                                    <div class="col-xs-8 col-xs-offset-2">
+                                        <input type="text" ID="txtLoginName" class="form-control myInput"
+                                               placeholder="用户名"></input>
+                                    </div>
+
+                                </div>
+                                <div class="row myRows">
+
+                                    <div class="col-xs-8 col-xs-offset-2">
+                                        <input type="text" ID="txtUserPwd" class="form-control myInput" placeholder="密码"
+                                               TextMode="Password"></div>
+                                </div>
+
+                                <div class="row myRows">
+                                    <div class="col-xs-8 col-xs-offset-2">
+                                        <input type="button" ID="lbtnSubmit" class="btn btn-info btn-block"
+                                               OnClick="lbtnSubmit_Click" value="登陆">
+                                    </div>
+
+                                </div>
+                                <div class="row myRows">
+                                    <div class="col-xs-5 col-xs-offset-1">
+                                        <a class="myA" href="#">忘记密码?</a>
+                                    </div>
+                                    <div class="col-xs-5" style="color: #FFFFFF">
+                                        <input type="checkbox" ID="cookieCheck" class="myCheckBox">记住我
+
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <div class="row myrow footer">
+        <div class="col-xs-12 footer">
+            <span>© 2017 随便写点啥</span>
+            <div class="foot-media">
+                <span class="dot">·</span>
+                <a target="_blank" href="http://www.whut.edu.cn">武汉理工大学</a>
+                <span class="dot">·</span>
+                <span>创作：大呲花|MuJi|Vi.Ci</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
