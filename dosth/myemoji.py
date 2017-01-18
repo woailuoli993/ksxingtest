@@ -6,6 +6,7 @@
 def main():
     with open('/home/vici/myem.txt', 'rb') as f:
         myem = f.read()
+        myem = f.read()
 
     print ''.join(map(lambda x: '[em]'+x+'[/em]', set(map(lambda x: x[:4], myem.split(r'[em]')[1:]))))
 
