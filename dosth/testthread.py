@@ -151,6 +151,7 @@ def consumer_producer():
 
 
 def cunsumber_producer_event():
+    pass
 
 
 def deamon_and_not_deamon():
