@@ -5,7 +5,8 @@ import threading
 import platform
 import time
 import logging
-
+from Queue import Queue
+from random import randint
 
 __doc__ = """ 抄董伟明,官方文档，廖雪峰 bogo  。。。。 threading 实验结果记录
 
@@ -150,11 +151,121 @@ def consumer_producer():
     p.start()
 
 
-def cunsumber_producer_event():
+def consumber_producer_event():
+    """一个线程发送事件，其他的线程等待事件的触发  生产者消费者模型"""
+    from random import randint
+
+    TIMEOUT = 2
+    eve = threading.Event()
+    ll = []
+    threads = []
+
+    def consumer(event, l):
+        """消费者"""
+        mt = threading.currentThread()
+        while 1:
+            event_is_set = event.wait(TIMEOUT)
+            if event_is_set:
+                try:
+                    integer = l.pop()
+                    print('{} pop from list by {}'.format(integer, mt.name))
+                    event.clear()  # 重制事件状态
+                except IndexError:
+                    pass  # 刚启动时容错。
+
+    def producer(event, l):
+        mt = threading.currentThread()
+        while 1:
+            integer = randint(10, 100)
+            l.append(integer)
+            print('{} is append to list by {}'.format(integer, mt.name))
+            event.set()
+            time.sleep(1)
+
+        pass
+
+    for name in ('consumer1', 'consumer2'):
+        t = threading.Thread(name=name, target=consumer, args=(eve, ll))
+        t.start()
+        threads.append(t)
+
+    p = threading.Thread(name='producer', target=producer, args=(eve, ll))
+    p.start()
+    threads.append(p)
+    for t in threads:
+        t.join()
+
     pass
 
 
-def deamon_and_not_deamon():
+def consumer_producer_queue():
+    """ 有两种模式 priority 优先级模式 LIFOqueue后进先出模式。"""
+    # priority 模式
+    from random import random
+    from Queue import PriorityQueue, LifoQueue
+
+    q = PriorityQueue()
+
+    def double(num):
+        return num * 2
+
+    def producer():
+        while 1:
+            wt = random()
+            time.sleep(1)
+            print('put', wt)
+            q.put((double, wt))
+
+    def consumer():
+        while 1:
+            task, arg = q.get()
+            print arg, task(arg)
+            q.task_done()
+
+    for target in (producer, consumer):
+        t = threading.Thread(target=target)
+        t.start()
+
+
+def consumer_producer_priqueue():
+    """priority 优先级队列"""
+    from random import randint
+    from Queue import PriorityQueue
+
+    pri_q = PriorityQueue()
+
+    def triple(n):
+        return n * 3
+
+    def consumer():
+        while 1:
+            if pri_q.empty():
+                break
+            pri, target, arg = pri_q.get()
+            print('[PRI: {}], {} * 3 = {}'.format(pri, arg, target(arg)))
+            pri_q.task_done()
+            time.sleep(1)
+
+        pass
+
+    def producer():
+        count = 0
+        while 1:
+            if count > 50:
+                break
+            pri = randint(10, 100)
+            print('put priority {} '.format(pri))
+            pri_q.put((pri, triple, pri))
+            count += 1
+        pass
+
+    for targ in (producer, consumer):
+        t = threading.Thread(target=targ)
+        t.start()
+        time.sleep(1)
+
+
+def daemon_and_not_daemon():
 
     def nd():
         logging.debug("start!")
@@ -176,40 +287,83 @@ def deamon_and_not_deamon():
     t.join()
 
 
+# threading pool && threading module programing
+def quadra(strings):
+    return str(strings) * 4
+
+
+class Worker(threading.Thread):
+    def __init__(self, queue):
+        super(Worker, self).__init__()
+        self._q = queue
+        self.daemon = True
+        self.start()
+
+    def run(self):
+        while 1:
+            f, args, kwargs = self._q.get()
+
+            try:
+                print('USE {} '.format(self.name))
+                print(f(*args, **kwargs))
+            except Exception as e:
+                print e
+            self._q.task_done()
+    pass
+
+
+class ThreadingPool(object):
+
+    def __init__(self, num_con=5):
+        self._q = Queue(num_con)
+        for _ in xrange(num_con):
+            Worker(self._q)
+
+    def add_task(self, f, *args, **kwargs):
+        self._q.put((f, args, kwargs))
+
+    def wait_complete(self):
+        self._q.join()
+    pass
+
+
+def test_threading_pool():
+    pool = ThreadingPool(10)
+    for _ in xrange(1000):
+        wt = randint(1, 9)
+        pool.add_task(quadra, wt)
+        time.sleep(1)
+    pool.wait_complete()
+
+
+
 def main():
     # nothread()
-    # withthread()
-
+    # withthread(）
     # ----------------- no threading vs use treading-------------------------
-
     # show_thread_itself('no muti')
-
     # print('threading is running! thraead name is {}'.format(threading.current_thread().getName()))
-    #
     # t = threading.Thread(target=show_thread_itself, args=(123,), name='Do yourself')
     # t.start()
     # t.join()
     # print('threading {} end.'.format(threading.current_thread().getName()))
-
     # ------------------ problem on thread lock ---------------------------
-
     # lock_is_important()
     # ------------------ cunsumer / producter model with condition -----------------------
-
     # consumer_producer()
-
     # ------------------ cumsumer/ producter model with event -----------------
-
-
+    # consumber_producer_event()
     # --------   deamon and not deamon threading   ------------------------
-    # deamon_and_not_deamon()
-
+    # daemon_and_not_daemon()
+    # ------------------ cunsumer / producter model with Queue -----------------------
+    # consumer_producer_queue() # 普通队列
+    # consumer_producer_priqueue()  # 优先级队列
+    # ------------------ threadingpool ------------
+    test_threading_pool()
 
     pass
 
 if __name__ == '__main__':
     print("python version is {}".format(platform.python_version()))
-    print()
     main()
-
     print("done!")
