@@ -100,8 +100,7 @@ if __name__ == '__main__':
 
     mapper = SimpleMapReduce(file_to_words, count_words, 1)  # 注入回调。
     word_counts = mapper(input_files)  # 添加要分析的文件
-    word_counts.sort(key=operator.itemgetter(1))  # 基于其
-    word_counts.reverse()
+    word_counts.sort(key=operator.itemgetter(1), reverse=True)  # 基于其
 
     print '\nTOP 20 WORDS BY FREQUENCY\n'
     top20 = word_counts[:20]
