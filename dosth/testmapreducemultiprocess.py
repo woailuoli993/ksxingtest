@@ -31,11 +31,12 @@ class SimpleMapReduce(object):
         """
         self.map_func = map_func
         self.reduce_func = reduce_func
-        self.pool = multiprocessing.Pool(num_workers)
+        self.pool = multiprocessing.Pool(num_workers)  # 创建进程池。
 
     def partition(self, mapped_values):
         """Organize the mapped values by their key.
         Returns an unsorted sequence of tuples with a key and a sequence of values.
+        将获取到的进程map 结果进行整合。 并按其key值归类。
         """
         partitioned_data = collections.defaultdict(list)
         for key, value in mapped_values:
@@ -53,7 +54,7 @@ class SimpleMapReduce(object):
           can be used to tune performance during the mapping phase.
         """
         map_responses = self.pool.map(self.map_func, inputs, chunksize=chunksize)
-        partitioned_data = self.partition(itertools.chain(*map_responses))
+        partitioned_data = self.partition(itertools.chain(*map_responses))  # chain 整合 所有map 回调函数的结果。
         reduced_values = self.pool.map(self.reduce_func, partitioned_data)
         return reduced_values
 
@@ -87,7 +88,7 @@ def count_words(item):
     tuple containing the word and the number of occurances.
     """
     word, occurances = item
-    return (word, sum(occurances))
+    return word, sum(occurances)
 
 
 if __name__ == '__main__':
@@ -95,10 +96,11 @@ if __name__ == '__main__':
     import glob
 
     input_files = glob.glob('*.rst')
+    print(input_files)
 
-    mapper = SimpleMapReduce(file_to_words, count_words)
-    word_counts = mapper(input_files)
-    word_counts.sort(key=operator.itemgetter(1))
+    mapper = SimpleMapReduce(file_to_words, count_words, 1)  # 注入回调。
+    word_counts = mapper(input_files)  # 添加要分析的文件
+    word_counts.sort(key=operator.itemgetter(1))  # 基于其
     word_counts.reverse()
 
     print '\nTOP 20 WORDS BY FREQUENCY\n'
