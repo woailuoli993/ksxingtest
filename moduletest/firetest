@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Created by vici on 08/03/2017
+
+import fire
+
+class Calulator(object):
+    """A simple calulator class."""
+
+    def double(self, number):
+
+        return 2 * number
+
+
+if __name__ == '__main__':
+
+    fire.Fire(Calulator)
