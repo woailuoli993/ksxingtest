@@ -40,7 +40,6 @@ if __name__ == '__main__':
     print platform.python_version()
     f = open("1", 'rb')
     print f.readline()
-    f.seek(0)
     printt = printer()
     follow(f, printt)
 
