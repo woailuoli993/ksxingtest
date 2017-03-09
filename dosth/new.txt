@@ -1,0 +1,12712 @@
+{
+  "url": "jaswen.top/index.php/ucenter/index/uid/12.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ccb-md.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "icbc-xrk.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "icbc-t1.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbpsn.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.cdtcbzj.com/jump.jsp?t\u003d2",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "www.lolskin.tk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ghdcjf.com/tiao.ASP\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "icbc-fnb.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.youyfq.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.ccb.yxkft.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.cbcwsq.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.dy-qvod.com/hdjjhni.htm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "103.230.243.109\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbjmx.cc/online.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.95533ms.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "933395555.com/?hg\u003d0",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "www.bocimac.com/tfcms/EV_tp1_cn.png\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "jjj.zbp-xanoorp.886380.xyz\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.pinaxyte.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.i-mediaclub.com/plus\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccsenx.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sttianyin.com/js\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "10086.date\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.jxduih.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "stock.pingan.com.hk/IndexConstituent.aspx?Language\u003dChn",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.accrd.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95588-sik.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95588hji.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dy-qvod.com/hdjjhni.htm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.sdtgd.cc/sdfsdfs3454343/chk.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.ynjtcm.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.95533icpn.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbjsad.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbrsr.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "icbcc.com.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hf1230.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.icczb.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.hfgvn.net/index.asp?u\u003d\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    3
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "虚假诈骗"
+  ]
+}{
+  "url": "ccb-md.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbmjg.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.hxbxyk.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.huaguoshan.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.hfgvn.net/index.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "203.160.52.238\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "45.113.163.45\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.sdtgd.cc/234234dfgdf/login.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "error": "Bad request."
+}{
+  "url": "lhfl.me\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "0f7ed5f583e433fe.cdn.jiashule.com/x/x8-sd/kjmahba8y8\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1759656056.nmgyphs.com/index_f.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "642376347.nmgyphs.com/mb_edit_index2.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bhhmq.com/index_f.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "bkjqp.com:1239/mb_edit_index2_a.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "mpml.me:1088/index.asp?eexramtdznnwtzbeofjnsyifoubwkqmoklphvbeg\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tg208.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bbs.sqrb.cn/forum.php?mod\u003dviewthread",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "stock.pingan.com.hk/indexconstituent.aspx?language\u003dchn",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "071820a2708cc242.cdn.jiashule.com/x/x13hbes/kjmahba8y8\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "c1c8198b415a787d.cdn.jiashule.com/x/x8-sd/kjmahba8y8/y8/moban/1/q1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "6e3ff6adf50a62e4.cdn.jiashule.com/x/x9-he/kjmahba8y8\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "uull.co:1081/mb_edit_index2_a.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "ropk.cuixu.com.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbjys.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mpsl.me:1088/index_f.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "zhihu.foresight-robotics.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "103.230.240.38\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.cdtcbzj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "yzqbvv.pw/admin/adminLoginResult\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "103.230.240.38/lateron.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.sdtgd.cc/234234dfgdf\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.cicsa.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.95533ickn.pw/ccb.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.xypayhk.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95599-zz.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.kuaichatong.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "43.243.109.66\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95533jec.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.95533hn.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jjj.zbp-xanoorp.886300.xyz\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95588vyk.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jjj.zbp-xanoorp.886390.xyz\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.ccb.i9xb.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95588ynt.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "104.149.25.183\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.pinanwe.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dwz.cn/4oJHI1\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.ddhxd.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.icbecb.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.yidongovip.com/indexS.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    3
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "虚假诈骗"
+  ]
+}{
+  "url": "wap.cbckt.cc/register.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.ziccd.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.airway.org.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.ccbsew.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "95588-zvk.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.sdtgd.cc/sdfsdfs3454343/login.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "wap.oacxz.cc/fds5454/login.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "gvdsz.wzdyn.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.fghunm.com/music/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "kiss8291.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zywyq.com/K6\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "heyutech.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zjzgsv.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xgsvr.cc/music/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "0310fanli.com/ErrorPage.aspx?aspxerrorpath\u003d/RedirectPage.aspx\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "mhcx.nt11.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mz.q-ml.cn/index.php?mod\u003dlogin2\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hljdoor.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ee16.pw/www/520.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "jinqiu.indosex7.com/q/jp.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "nbjhjhjg.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zqjp8.com/a/ppjs/xmgs\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "shcxwt.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sdxl.hirsx.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "imzhiya.com/m1.aspx\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zjzgsh.com/MusicM/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "www.tianying.la/book/39648\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zhongfu868.com/Tip/getTKTip\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "0310fanli.com/RedirectPage.aspx?transferKey\u003dPCDownloadUrl\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "sxhonghaiglass.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.fuzhuangfangdao.cn/txzl.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.kfwusecao.com/contact\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jstzrd.com/m1.aspx\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "yzj.im/6JdJH\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "rsifyx.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xgshcv.com/music/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "ybgtzc.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xptdxc.cn/music/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "www.32an.info/archives/11524/5\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    8
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站",
+    "非法内容"
+  ]
+}{
+  "url": "www.miyou.ren/fw/fwquery.php\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "fzglly.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ap1e-ic1oud.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bo.rxcqkh.com/1.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zjbenpaoqq.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "nbjhjhjg.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zgyvip.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zghvip.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "bjgkqx.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "pqzk.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sdfjmm.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "fyhunm.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xdddgt.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wyuiiuu.pw/qcdipa/index.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "baomingt.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dfsdfaa.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "2.zgxgs.iego.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dyyrt.com/musicm/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "kipkkf.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pkfkn.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hbbptv.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xdoyf.itaoba0.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pkfgn.com/m4.aspx?a_hm\u003d15160285347\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "gzmhhy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mpgdf.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zjbenpaoqq.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "veoia.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "bp.qqbphtml.org\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zgbangjie.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "pkfxn.com/m4.aspx?a_hm\u003d15109410152\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zgxdfk.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jjz.bodo7.cn/3.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gycysy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xdoyf.itaoba0.pw/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "hbbptv.com/?pjejlhxxmw\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "appl.findl-id.com/error?aspxerrorpath\u003d\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zjzgsh.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "k2tyfj.xiuyatg.com/jc6by/?qkgop0\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "jzlwjdft.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xgshwz.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bakemiss.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "nmknbgl.com/music/home/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dyyrt.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hgslyq.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xgskkz.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pkckn.com/m4.aspx?a_hm\u003d13666536178\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "heusau.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lfluyao.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xgsvn.com/music/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "www.bgwkq.com/id\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "tjytsh.com/m1.aspx\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "bjgkqx.com/music/Home/Index\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "zgyhng.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xdoyf.itaoba0.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "shtx168.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "3g.cqpfkyy.com/html/yyjj\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "11cool.com.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "cnlivexc.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hspeizhi.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "qnolcsxg.cc/1308.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yiyuan14.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mstqz.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "nbjhjhjg.com/music/Home/Index?from\u003dtimeline",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    4
+  ],
+  "eviltype_ch": [
+    "恶意文件"
+  ]
+}{
+  "url": "app1e-1cloud.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zjzgsh.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp3.qqmusic.cc/yq/5272266.m4a\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "nxylhy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "appls-ios-icloud-id.cn.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.apple.com.10-3-2.pw/wap.asp?OXJJZK\u003d811569878350449.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "ultimatefreehost.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "vipm163-webmakjq.com/msty/bc805cf091ca502d16a537704c48c454\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "apple0idl.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.aiuxian.com/so/p-224030.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mubiaoku.com/go.php?s\u003df1\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.landz-apple.com/Save3-1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.apple-iosbx.com/index.asp?MHDCXMOCCNAWHXZKVLHNFJMVJKXDEWYPRYRJPPXD\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.icloud7-appleid.cn/I_APPID2/?MZGREHTEVCWXELPJJVINFTNRIHYOLREKLBVRONPR\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "art.oyg.com.band/ios\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "o1ift.hagb.loan/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.tdsxw.top/ids?20161124\u003d3825813-1-1.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "w4gid.lawd.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "q7puo.cvio.loan/index.htm?r\u003docgrfu80ro15\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "ary.hoys.com.band/ios\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "45.125.12.76\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.app1e.ios-icvapp.cn/Error?aspxerrorpath\u003d\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "zwb4.uz7b72vj.bid/hwyp9.shtml?from\u003dgroupmessage",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "a3fky.gfose.site/index.htm?s\u003dfeqkpk60wq40",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "r9xua.urzt.site/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ptgq.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jyh.jrlsh.cc/haitao.html?cate\u003d20\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "f6xyw.mccr.loan/index.htm?b\u003dekratk77yj89\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zjfhfcjxsfdnjfhbsjjsjgf.top/ICloud13\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.dhvqn.men:1003/I_APPID2/?TMCDIQKUQZVBKHIVQIVDZEZLKBYUORMYUGVBCOPP\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "sfdhsergssh.ga\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.appip-icluod.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "harooz.com/ashkan-khab\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    3,
+    5,
+    5,
+    4,
+    4,
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "虚假诈骗",
+    "博彩网站",
+    "博彩网站",
+    "恶意文件",
+    "恶意文件",
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "www.dhvqn.men:1003/index.asp?KSMQFWADRTZMRMTOYPEXCQYBNLCAQVERDURPYPCH\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "c6ywb.hfas.loan/index.htm?o\u003dyjzvyz72ae52\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tdszw.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "r0nzz.stfx.space/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.app1e.com.ios.idvn.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "healthaweea.com/fsdeex/sefgsfd/fgdfuh/index.php\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "o1kiu.stfx.space/index.htm?q\u003dydbwdj05ag77\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "g7tne.yiev.loan/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "appid-findse.com/ids\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.vrtgt.men:1003/I_APPID2/?QDBRNLXTSHJRKUIOWWQSVAFODBFHVTCGAAPJNSIZ\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.apple.chan-ios.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "letao5588.com/index.php\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "appld.id-lac.cn/psws\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "apple.chai-ios.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "rfksi.men:1003/i_appid2\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "china.lphone-iclondid.date/psws?20161124\u003d7890374-1-1.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "jxphdc.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "app1e.ios-icvapp.cn/error?aspxerrorpath\u003d\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "lingmaohui.com/index.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "i5wdx.tipz.loan/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "apple0ics1o.cn/psw\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gps.iclooudid-sos.date/psws?20161123\u003d0884859-1-1.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "tydsmy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tdsfw.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lanyang666.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "2017cq.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "spartian.xyz\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jx3.xoyo.eteln.com/?from\u003dgroupmessage\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    3,
+    5,
+    5,
+    4,
+    4,
+    3,
+    2
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "虚假诈骗",
+    "博彩网站",
+    "博彩网站",
+    "恶意文件",
+    "恶意文件",
+    "虚假诈骗",
+    "信息诈骗"
+  ]
+}{
+  "url": "808bl.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hjvdshudgfhdsiufhds.top/save3-1.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "uz.tangguotui.com/m.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "qizo.sccoocioso.pw/ceshi.php\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "app1e.icluod.gbyny.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wanhuajing.com/d487692\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "find.itune-ios.cn/psws\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "ohfq.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "youhuigou188.com/index.php?r\u003dl/d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ybcyw.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "app1e.dncyj.com/psw1s?20161122\u003d2402331-1-1.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "zuizdm.com/haitao.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "apple.id.wime.cn.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zuizdm.com/admin\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "j3rqb.ptgq.loan/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "apple0idl.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "appld.id-lac.cn/psw1\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "u6rqg.houa.loan/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "j3rqb.ptgq.loan/index.htm?r\u003dufrcsj37qz98\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ios.lphone-iclondid.date\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "apple.icloud.1oios.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "w7rci.urzt.site/index.htm?w\u003dwczqoo68ml77\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lstxm.dsnk8n.aiwieggfa.cn.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "k9zge.ddpf.space/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "i5wdx.tipz.loan/index.htm?w\u003duylezl78fg07\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "find-ios-iphone.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tygmaicai.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.find.chan-ios.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.apple.storei.com.cn/app/pc\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "oonhdcvqng.pw\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xddls.ikbmh6.ajdsigahjiad.ga\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "t1pae.xjiv.space/index.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.apple.iviosapp.cn/V2/Robot/netword\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.fiad.chan-ios.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.appls-ios-icloud-id.cn.com/Error?aspxerrorpath\u003d\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    3,
+    5
+  ],
+  "eviltype_ch": [
+    "虚假诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "puwt.com.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "41147.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "yu68.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.nsxhg.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bzyh.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mtdf.me\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.to4ld.8861322.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "5971598.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zhmxc.xth.la\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.bdcjw.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.241401.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "171351.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ktmbd.win\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mk18r.pjydt.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "q8cr.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dencd.red\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.6464saomm1.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jpcjs.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "66qqr.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "yttdvcl.sstgj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jbdulo.571605871.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "rjkyz.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "666ggg.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.598918.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dxskx.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ghfpq.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "fg7so.fkfpc.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gq2014hscrdy.ijte.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "chlqnql.fgykg.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.tege.org.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "52401.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "8o14.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "o1ied13.gwpyh.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pn7qb.4081.la\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tpyrn.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "22kkmm.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "httpwww857kkcomy.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "104.217.192.130\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "btdsw.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bt56.org\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "7874.zjyfg.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wwwbtbt666v.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "223963.wang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mylr.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "maturehotchick.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "53ko.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gan801.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "64bo.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "qune.org.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.90ql.dwzwg.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ammo6.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "department.02839.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "avsemm.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "enu9.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "23745.org\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gmvq.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "fmpfc.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1yep.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ppoi.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pxxf.pro\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "50cbb.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "193515.zjmx.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wwwss52ssv.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "5858p.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gygzhbjhssnbdsj.360lfgg.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jilepin.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www08mmm.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gequlianjie.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "yeeyeah.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "42231.75715.hk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "c7x8.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "avqq6.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "monaiba11.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "14164.glzs.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sgs1.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "97chaopeng.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "695n.bid\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "i7qrv.xhpts.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.kejimeixueyuan.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "56rrr.zz21.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "65ee.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "182.254.246.229\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mpkjh.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.kknlr.plsqd.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mxfhb.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.wapg.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zqndkyrsf.0434348.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ckmi.665886.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www938-bb.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "rbj0.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "851629.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "57125.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "oi1gbfglf.ywfjh.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "paizhaogufengjif.org.shsyxx.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "57w66.coutop.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mm.rb.wengchao.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "t.cn/RfVQ3jJ\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.gangbang.nl\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mm131.com/xinggan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    8,
+    2
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "信息诈骗"
+  ]
+}{
+  "url": "www.wphl.in\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.888zd.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "j5v.30980825.win\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.senmdh.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "2c1.tvlsf.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wzrydcwz.kqfnk.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pkgeqh.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bbeew.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "108.186.10.203\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zruuwyig.aagu3.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "7l95x7.hqglove.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "3l7j.online\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "107.149.4.65\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xfao.iaxtq.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "103.17.93.101\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.wwwv5602.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xngjyl6011.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tuefma008.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "23.104.168.227\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hedtp.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "108.186.14.125\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "df6006.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "yxgfwx.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "118.184.49.243\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.jp156o.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lqwtd.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.pkkxo.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "0e284u.sxyinxing.com.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "0st69.xhrhq.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "kxmgs.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "vaxqr.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "003.58259.lol\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dxvaeenl.www.bjldzgl7919.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hp-nb.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "51973.hk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lczb.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xldhd.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "url.cn/41kezdt\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "985.so/amkqz\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xwfyzy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "l6w.paqg.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sjlml.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tj998.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tfl5.bid\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "eihiu.skxjl.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dlbui.fhjdalibaba.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "01nf7.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "3f5.quawp.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "2222964.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "kny7l.mssbm.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "9k9si.lo6yr.ef156t.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "5mr.org.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "q10.ayoki.bid\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "23.234.50.203\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "fyxmkyf.miepza008.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dulg.awgrm.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "cpkdq.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "58eeeee.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "103.53.7.85\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "505359.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "29946.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "kqlmn.cn.lxlzb.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "r7b.387231.wang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "fuagg.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "y7474.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "10998.twtfr.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "vvj8.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "l8bskp.tlsrh.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jf1236.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gm156v.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "02stm.4000087.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "aadywllp.xscd.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "g.sf688.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jinbaobo8.org.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dupintanceqi.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "z81buh.mfcorp.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "rrurl.cn/pigoei\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "2em4e.gndmj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "b5633.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ugszj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "6h65caibawang.hjnh.info\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "72b.u57.rehjks.xyz\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.020sand.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "b2r8i.radxp.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ef1.run0.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.3990009.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.tvmgc.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hhgyy.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.rbsos.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dengju168.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "37.wtsg.me\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "aarhm.men\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "23.89.177.250\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "91jixiangcai.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "76o.208ssc.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "casino-ra.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.smcjpsj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mqbvo.loan\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "83y5t.av2b54a.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.gmdfund.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_wzry_1111.apk?58379f045a0c0.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58378a811fb4c.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?58378e7ee6804.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583784fd3f4fc.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "cjxt6c1.yangzhijishuw.com/js/s0001/index.html?s\u003dnull\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?5837707f97639.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "app.gzjkw.net/b/61db\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?58379502430ca.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583789d594879.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?58378111a37e4.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "112504.qzsts.cn/app/app7/huobao_505.apk?attname\u003dhuobaotv.apk",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?5837734840329.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "139.224.167.22/5831ca54e39d4/d.php?gameid\u003dqb",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58379af4b6260.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "jnij3.lnwyzyws.com/url.php?uid\u003d248\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.hbdrzyc.com/base1028.php?c\u003d2",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    4,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "恶意文件",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583771a74afba.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "1280appbaidu.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zljsw.cn:1024/6.html?wbil88681522\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    8
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站",
+    "非法内容"
+  ]
+}{
+  "url": "hydf.gpdzj.com//yx/XEKP202.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583793dfc17d2.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583786dede8f8.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58378580dccaf.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_wzry_1111.apk?5837a1e2c6379.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58376fbf9a997.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?58379e253b951.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583788959350e.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.pornoxss.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?583770fd0399f.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?58378c8f989b0.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_wzry_1111.apk?5837a02974db2.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "axqrpj7.yangzhijishuw.com/qvod_s0001.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58377a0d4b68d.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?583786c2b4fe3.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58376db42d915.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "jrgyq.com/l15199833/a218.html?page\u003d77150260\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?58379747e0004.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?583771d740135.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?5837794962cb4.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?5837770a30fff.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?58376d44cee4f.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "yztc7.lnwyzyws.com/url.php?uid\u003d248\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.porno890.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58377f7e4068c.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?583780802164e.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "yy.wulianxinbo15.cn/index.html?id\u003d273369067",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58377efcd1acc.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.zljsw.cn:1024/7.html?fofn99366139\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    8
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站",
+    "非法内容"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?58378e8bda1b5.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.lichengglass.cn:1024/9.html?pvl918637331\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?5837806d207f6.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?583771ee6cfe3.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?5837782661cff.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_wzry_1111.apk?5837a62c662ec.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "112504.qzsts.cn/app/app7/huobao_1227.apk?attname\u003dhuobaotv.apk",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "cdn-10064027.file.myqcloud.com/qb/qvod002.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "rf1nep3.yangzhijishuw.com/qvod_s0023.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.lichengglass.cn:1024/9.html?qgmo53775396\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "wwwqzf1y.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?5837734d3a327.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?583787830ce1a.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.zljsw.cn:1024/5.html?vrpg87959598\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    8
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站",
+    "非法内容"
+  ]
+}{
+  "url": "www345fffy.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gd.bjcccn.com/app/gd292-pm7wle.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www88cfcfy.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xxxxxxxxxxx1.putaojiu5.com/vip/sese.html??id\u003djxjx3g3h2x9h\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.xgqcnj.com/app/gd121-liq2yq.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.xgqcnj.com/app/gd121-pt7ryu.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www34didiy.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gd.xgqcnj.com/app/gd121-5rzofw.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www14jjy.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "112504.qzsts.cn/app/app7/huobao_1227.apk?attname\u003dhuobaotv.apk",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "sr4rrie.yangzhijishuw.com/qvod_s0001.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ody7af8ib.bkt.clouddn.com/o_1atb3656gvovass12001gjdvhvj.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58377d726a57b.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?583791c986785.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "113.107.42.55/appv1/app7/huobao_280.apk?attname\u003dAvplay.apk",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    0
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "绿色网站"
+  ]
+}{
+  "url": "www44fkfky.top\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58377302e7ba2.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?5837761c548bf.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "jp5zu.lnwyzyws.com/url.php?uid\u003d248\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_cfsy_107.apk?5837a11d66c3c.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?5837960d04466.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qb237.apk?58379045e9c8e.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.zljsw.cn:1024/5.html?4wyf32556575\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    8
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站",
+    "非法内容"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?5837910495eac.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58378730c6127.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "6pzdxdw.yangzhijishuw.com/qvod_s0023.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_wzry237.apk?58377a17bebb0.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "m.mdpda.com/1608946\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "md76ckb.yangzhijishuw.com/qvod_s0023.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/share/share_qb_3_107.apk?5837a16bb49d1.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.xigua88.cn/xykmqkyqqm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.caidashen.cn/reports/20160620/1031577974695536.shtml\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/ztinfo/139525.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/smsxyk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.daifunier.com/?page\u003d2\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xa365.cn/yxkqkjmmcw\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMzA3MTU5NTUxNA\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/djyxddjyx/004\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/smyxwsblxykmp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.dansini.cn/yxcdhpnll\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "dk.lhsddqk.com/dd/order.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/special/2014/boniaosuan\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.uihui.cn/zt/zqjzmjd\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/zxxykcxed\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.hyyjsb.cn/zt/weiweiyixiaohenqingcheng.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/yxksjxx/541\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xa365.cn/nxxykedts/842\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/gsmdxykhk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.leerk.cn/index\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/twyxdmylb\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.xigua88.cn/wsxyked\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMzIyNTU2NzgwNQ\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mengtongltd.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMzAwNTc3ODU2NQ\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xa365.cn/gfxyklpzx/076\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.abobk.cn/brand/VeryNobel\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hyyjsb.cn/yxdkmflxzsdsq\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hyyjsb.cn/zxyxxykzmycnxszchk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.5ihaoping.com/soyz/405.html?replytocom\u003d71\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMzIzNTU0NzA2NQ\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/zxyxshfxzp/778\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xigua88.cn/icyxkhbdsm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/ztinfo/139526.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xigua88.cn/jxsjyxzmbdsb\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xigua88.cn/zxxykyqlgy\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.hyjactc.top/4-woyaokaihu/614.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/zhuyuan/2016/20160713134421_1689369.shtml\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "yao.wfbtsl.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMjM5MjU2MDY5NA\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/zfbssqpfyxxyk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.mengtongltd.com/index.php?t\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wankabang.com/xinyongkabeiju1115\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "t.cn/RfqAEJH\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dashutou.cn/2016/0812/12979.shtml\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.fushengyy.cn/ask/q10215079-p1.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.e-rong.org/minsheng/3796.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.kadaiw.com/center/gdb/knows/146261315011032.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.siwadian.cn/a/20150811/74409.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/nbtsyxcsd\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/sjdsyxk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.dansini.cn/zxyxxyknfssmys\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xigua88.cn/jtyxdxhm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xigua88.cn/yxkbwxal\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "m.godloveme.cn/f-1433969366906214259.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "001365.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ysre.esip.es\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xcardsale.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "qixingnet.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "52cfwm.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/bjxzyxzmy\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.xa365.cn/tjnsyxxhcx/006\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "www.qqmingcheng.org/mil/11358.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMzAwNjQyODUxOQ\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMjM5NjcyNDA0MQ\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xigua88.cn/wxtxyxksz\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.820yujia.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.dansini.cn/yiyuanjibing/czgkyy1-yaozhuibing.htm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    8,
+    1,
+    9,
+    9
+  ],
+  "eviltype_ch": [
+    "非法内容",
+    "社工欺诈"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?__biz\u003dMzA5NTIwMTAwNw\u003d\u003d",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mp.weixin.qq.com/s?src\u003d3",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.accyy.com/zhongji/hyrm/140317.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.guialavin.com/proshow.asp?id\u003d239\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    4,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "恶意文件",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "url": "zhongtie-ky.net\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mz2sqiche.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bfnkfp.web.3721diy.com/index.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "aftjob.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "nsbylove.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "epsonkh.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "wap.zjyanda.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bfnkmr.web.3721diy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xiaoweihanyang888.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "assdzy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jh888.3721diy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?UFYEE\u003d70097.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "hyjdq.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "13889.httpsedu.download/?XIFHD\u003d59701.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?IYJIY\u003d70112.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "13889.httpsedu.download/?ABECI\u003d21644.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "ccbar.cc\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?PYOSW\u003d72356.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "szglfcyy.com/ck_login/nullcode_login.asp?appid\u003d2001601",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?HXWBB\u003d54411.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?VPGAU\u003d67554.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "aq.qq.1844853673.dclhy.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.bmrp.me\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "11001100.httpsedu.download/?UDECT\u003d93417.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?CRNIQ\u003d61356.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "100086.httpsedu.download/?IWGMU\u003d74829.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "100086.httpsedu.download/?CEJTN\u003d50158.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "11001100.httpsedu.download/?CNRPX\u003d10945.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "doo.521dg.com/login.php\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    4,
+    1
+  ],
+  "eviltype_ch": [
+    "恶意文件",
+    "社工欺诈"
+  ]
+}{
+  "url": "100086.httpsedu.download/?BSTLM\u003d51093.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "pay.httpsedu.download/index.asp?FPDLOBTBGMVQBJGBVHHFQTRXOLAMOTHGFCANJECJ\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "13889.httpsedu.download/?FWQUZ\u003d92392.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?MYYGL\u003d31159.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?KNFEI\u003d85080.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "abcd110.httpsedu.download/?GORBM\u003d95845.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?BCCXE\u003d63360.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "13889.httpsedu.download/?PTNMF\u003d63873.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "2505.qkkk.red/WWWROOT/mb_edit_index2.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "13889.httpsedu.download/?PTSBK\u003d78272.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "yiyuan.httpsedu.download/indexx.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?XHOGV\u003d32146.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "13889.httpsedu.download/?GYICD\u003d67945.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "hmxdl.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "13889.httpsedu.download/?QYKPS\u003d45623.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "pay.httpsedu.download/index1.asp?RUBDK\u003d70800.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "nf.6cyun.cn/qlogin/?uin\u003d1976251439",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "qq.bns68.top/index1.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mmmpb.com.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "89afd5c83077ffcf.cdn.jiashule.com/x/x23-id/kjmahba8y8/y8/moban/1/q1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "313873832.nmgyphs.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "afgsghrtgsa.08tk.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lhjg.me:1085/ck_login/nullcode_login.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "flwy2013.com/wap/pro_d.asp?id\u003d749\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "cysld.com:2575\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "071820a2708cc242.cdn.jiashule.com/x/x9-he/kjmahba8y8/y8/moban/1/q2.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "570180812.nmgyphs.com/mb_edit_index2.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bhfgq.com:1001/mb_edit_index2_a.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "cwgdl.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jump.sinaapp.com/oqmm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    9
+  ],
+  "eviltype_ch": []
+}{
+  "url": "771971686.nmgyphs.com/index_f.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bpp.josumu.tk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "a-q.qqtrwus.yunzhijia.com/6pmqz?oipdppmrhj\u003d954996421\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "nn.lwwwww.cksjw.bgsqt.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "0575400.com/index_f.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "c1c8198b415a787d.cdn.jiashule.com/x/x8-sd/kjmahba8y8/y8/moban/1/q1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "f1e346d857b5a3a7.cdn.jiashule.com/x/x23-id/ahhahahakjm/y8/moban/1/q1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dqrqj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "suo.im/3duoue\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "semyz.cn\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mmmhp.com.cn:3652\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "605628281.nmgyphs.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hunterhawkins.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bkydq.com:1563/robot/fuck\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "lhhx.me:1085/mb_edit_index2_a.asp\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "3e51230ec51b9050.cdn.jiashule.com/x/x23-id/ahhahahakjm/y8/moban/1/q1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "5e059bd80c12c9f7.cdn.jiashule.com/x/x8-sd/kjmahba8y8/y8/moban/1/q1.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "bhwqt.com:1239/robot/fuck\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bbs.sqrb.cn/plugin.php?id\u003dhejin_wxyx",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?VCHSD\u003d18164.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "aq.1554190029.pwfgl.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sijigogo.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?AYHEA\u003d25665.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?FWFJS\u003d30085.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?LVKHH\u003d44221.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "13889.httpsedu.download/?QEKYP\u003d69771.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "pwfjl.com:1002/ck_login/nullcode_login.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?WVEYR\u003d41255.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "aq.1210594937.pwfhl.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "hpgl.me\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.wdgua.com/index/index/login.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?DSPJM\u003d79462.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "abcd110.httpsedu.download/?RHAYM\u003d28730.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "5075fbb0b8db9a0a.cdn.jiashule.com/x/x9-he/ahhahahakjm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.lols7.club/?mType\u003dGroup\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "s61.onionmatch.cn/html/czjq/q7n5.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "abcd110.httpsedu.download/?AYIQA\u003d10169.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/index1.asp?NDFCZ\u003d90724.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?LPCYT\u003d96755.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?BPDUA\u003d15880.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "11001100.httpsedu.download/?FNFJI\u003d51905.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "12.gqdw.kim/wwwroot/index_f.asp\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "duoyu.hukaiyue.dsceshi.cn/index.php?s\u003d/Public/userlogin\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pay.httpsedu.download/index1.asp?BLUEF\u003d82135.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "110.httpss.htttpss.httpsedu.download/?VECFU\u003d97576.html\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031713451.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/2/12276/18143/7208\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/2/12274/163/1807?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/2/1750/163/7353?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/2/3890/163/619?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/2/3890/163/619?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031634722.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xizangshenhouzangyao.com/a/product/c4/2016/0101/25.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jlz.niio99.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031723801.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.wqxadw.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xdq66.com/?0377\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/2/1175/248/2130\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mbxxix.juxinxd.com:168\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.wcqekz.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031712973.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "labs01.com/?gzid\u003dKB-1124-1\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031714076.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031703494.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.10242148.xiao352.top:8310/p2/snl/a9003-3.php?act\u003dlmt",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/1/12306/163/8894?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.wuhanauto.com/SP-41323409412.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.mianhecha.cn/?from\u003dsinglemessage\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.kewkmh.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.cygj001.com:8899/public/contentUrl?id\u003d5034",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.10241554.xiao352.top:8310/p2/snl/a9003-3.php?act\u003dlmt",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.cygj001.com:8899/public/contentUrl?id\u003d4673",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zalulm.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "b.bbbuy.net/goods.php?id\u003d66881\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.wkeurt.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ljbfcx.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_Product_2031712633.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mkgqsp.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031644922.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xie.juxinxd.com/order.htm?id\u003d0.9924341225996614\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bala.net.cn/pack/?kwid\u003d54403094654\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "vlgonf.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "icqjhi.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "i.viptop.cc/?page\u003dny4xni4x\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "121.41.228.9/product/returns.html?saleno\u003d000005056",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "b.bbbuy.net/goods.php?id\u003d66881\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "vip.whxhxx.com/dh?kwid\u003d54048849297\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "11071115.tz.zdpfhs.com/dagem?kwid\u003d53778900418\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bala.net.cn/pack/?kwid\u003d54403094606\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "121.41.227.32/zh/wnconsume.aspx?khbh\u003d1632864340\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "hwe.fzysy.cn/h1/a33/33article.html?u\u003da75c510cd7e0aac4",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dxpei.com/goods-6169308986.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ooexv.net/public/detail/1/12305/163/8894?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "kangledaigou.com/productshow.asp?articleid\u003d0",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "fmmwon.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "koufugegensu.com/?spm\u003d0.0.0.0.y8clgg\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "uknt0a.zhixiaoya.com/?cod\u003ddwz1479864777fjasmsjqiskbuymwq4o9wgtm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jmejfh.juxinxd.com:168/order.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "agwjfi.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "webwap.czfymy.cn/shop/buy/bc/bcwap\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "swpewh.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.cygj001.com:8899/public/contentUrl?id\u003d4673",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.cygj001.com:8899/public/contentUrl?id\u003d4655",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031658047.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.qlbfkl.juxinxd.com:168\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ooexv.ren/public/detail/3/12273/163/7296?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_Product_2031716221.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031644309.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.jdfzup.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_product_2031729815.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.1hua.net/m/goods-341.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hansiyuan.net/buy/199-162/chan/4399\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.cygj001.com:8899/public/contentUrl?id\u003d4725",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.yhtyht.net/yhtyht_Product_2031716948.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mengyankongjian.com/item/26866520853.html\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.ooexv.net/public/detail/1/12272/163/8894?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.esanqy.juxinxd.com:168\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yfsale.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ganghuoabc.com/Wap/Product/2/3.cshtm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.lwjbqh.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "guimi.201611241041.live7345.xyz:800/A1/snl/a9003-3.php?act\u003dlmt",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "www.wxvmmp.juxinxd.com:168/?niu\u003dxinlang\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ooexv.ren/public/detail/2/6659/163/2264?from\u003djiam",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.cygj001.com:8899/public/contentUrl?id\u003d5036",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1.csad12.com/s?redirect\u003d4364",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    7,
+    7,
+    7,
+    2,
+    1,
+    6
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "风险网站",
+    "风险网站",
+    "风险网站",
+    "信息诈骗",
+    "社工欺诈",
+    "色情网站"
+  ]
+}{
+  "url": "60.205.129.153/58370bfbda8db/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836afdcc248c.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836ae542a6e6.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "115.28.114.89/5836d5390073d/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836cb83822f9.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836dddbed11e.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d6e203e51.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "115.28.114.89/5836d5390073d/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "bjhbds.cn/y5dx\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "139.224.167.22/5836b8d13f0b1/d.php?gameid\u003dqqdzz",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836fc4f8bf1e.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d59c91fd2.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd122-azkxzh.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836cd21de1cd.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "139.129.107.112/583677a9d6571/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "60.205.85.46/5836d87a15c23/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d90453ff8.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd122-7zsrnz.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "bjhbds.cn/bulg/shipin.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836b06c43e2a.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "139.129.107.112/58369d9070788/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "118.178.157.208/5836d424db0d0/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?583712043c36d.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836ba2ee1285.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "blog.sina.com.cn/yinbao666\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "60.205.129.56/58371c6eb7d14/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d1fdd7bb3.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836ec724a1d0.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "42.96.248.124/58379cd6e5e55/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "120.77.88.30/58370a6fd89fc/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "url": "139.129.107.112/58370dee1148e/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.threetung.com/3.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "kk16888.com/topic/70570.htm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    3,
+    8,
+    4
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "虚假诈骗",
+    "非法内容",
+    "恶意文件"
+  ]
+}{
+  "url": "www.aikuyunsky.win/programvideo/kan_files/bofang.htm\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?58373d7fb8339.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "139.129.107.112/5836f353639e6/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "120.77.88.30/5836d39c5318b/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd157-iztrxu.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "115.28.114.89/5836f6a71b885/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "118.178.157.208/5836e6117630a/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd300-jc5i8r.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "115.28.114.89/583529131b6e6/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d4cad3382.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd326-ngeq2t.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d1e67b75f.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "qwmr.yeiuy.com/wa/spvcr.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd121-2lnmxp.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?583716d88e567.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836c71e49448.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?58376c3cdad94.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "115.28.114.89/5836b528c4e75/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836f629565c3.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "wog.yeiuy.com/xb/spvcr.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5837766bc109a.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd122-tzpx4w.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836c03c455ab.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836bdb034d86.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "60.205.129.56/583799201d657/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd123-a8m7cy.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "42.96.248.124/583689fcba9b3/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd250-tb6sc8.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "120.77.88.30/5836d9632304f/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "url": "115.28.114.89/5836dfbfb8711/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "60.205.85.46/5836d80baccae/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "error": "Bad request."
+}{
+  "url": "kk16888.com/reply/70638/2386678.htm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    3,
+    8,
+    4
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "虚假诈骗",
+    "非法内容",
+    "恶意文件"
+  ]
+}{
+  "url": "xngcjsjl.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tlbxjj.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xy.sicnuhkg.cn/home/login\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "nusaet.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gd.xgqcnj.com/app/gd399-u8x93s.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "jsgujie.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "kk16888.com/topic/70595.htm\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    3,
+    8,
+    4
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "虚假诈骗",
+    "非法内容",
+    "恶意文件"
+  ]
+}{
+  "url": "210.36.48.236/e-learning/shouke/showarticle.asp?articleid\u003d1\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "zrqmr.yeiuy.com/wa/spvcr.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "eed.yeiuy.com/hp/spvcr.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd115-9pcemr.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd104-o4hc8n.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "qcpmru.spukk.com/f/sp.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "yptgd.com/t\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    7
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "风险网站"
+  ]
+}{
+  "url": "m.mdpda.com/1038960\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "qcoin.info/shun\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    7
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "风险网站"
+  ]
+}{
+  "url": "hy.xz7.com/st/sjcfcyhxfzgj.apk\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "218.89.67.54\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d85b50fa9.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836bc6b7f9d3.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd253-le5pm7.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_qqdzz237.apk?5836c0ad09029.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "60.205.85.46/5836abb4ae982/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    2,
+    3,
+    0,
+    2
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "虚假诈骗",
+    "绿色网站",
+    "信息诈骗"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836fa5fcc714.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d0fc2c9f2.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "139.129.107.112/5836d1d28ebe2/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "\r\n",
+  "status": 1,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "gd.cz150.com/app/gd121-tk0g4c.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5,
+    9
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "kk16888.com/topic/70599.htm?qqdrsign\u003d0344c\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    1,
+    6,
+    3,
+    8,
+    4
+  ],
+  "eviltype_ch": [
+    "社工欺诈",
+    "色情网站",
+    "虚假诈骗",
+    "非法内容",
+    "恶意文件"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836df905fcd5.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "mail.deepseagame.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836f446a388d.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "42.96.248.124/58371c90d58ca/d.php?gameid\u003dttkp",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "shaiya001.com\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "myappcdn.b0.upaiyun.com/down22/bgift_ttkp237.apk?5836d516c0d6a.apk\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    2,
+    5
+  ],
+  "eviltype_ch": [
+    "信息诈骗",
+    "博彩网站"
+  ]
+}{
+  "url": "www.onefoundation.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.cydf.org.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.redcross.org.cn/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.jachina.org/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.nandufoundation.org/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.pubchn.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.foundationcenter.org.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/forumdisplay.php?fid\u003d173\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.jiayuan.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zhenai.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.baihe.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.baihe.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.marry5.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zhiyin.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/forumdisplay.php?fid\u003d719\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.1ting.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.xiami.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "music.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.yinyuetai.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.5sing.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.songtaste.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/index.php?gid\u003d41\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.qiushibaike.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ent.sina.com.cn/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mtime.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.bilibili.tv/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.acfun.tv/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "tel.dm5.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.aqioo.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/forumdisplay.php?fid\u003d46\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.flickr.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "huaban.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zcool.com.cn/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.deskcity.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hexieshe.com/\r\n",
+  "status": 0,
+  "urltype": 2,
+  "urltype_ch": "风险",
+  "eviltype": [
+    7
+  ],
+  "eviltype_ch": [
+    "风险网站"
+  ]
+}{
+  "url": "topit.me/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.poobbs.com/tuya/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/forumdisplay.php?fid\u003d185\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sports.sina.com.cn/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sports.sohu.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hoopchina.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "sports.163.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.zhibo8.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.espnstar.com.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.goalhi.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/forumdisplay.php?fid\u003d554\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.eastmoney.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.jrj.com.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.1234567.com.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.imeigu.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.hexun.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.caixin.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "bbs.pinggu.org/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "weixin.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mobile.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.uc.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "jiepang.com/phone\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "mobile.renren.com/home\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ttpod.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.mojichina.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.oiegg.com/viewthread.php?tid\u003d1018178\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "im.qq.com/qq/all.shtml\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "feixin.10086.cn/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "im.renren.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "pinyin.sogou.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "windows.microsoft.com/zh-CN/internet-explorer/products/ie/home\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.google.com/talk/intl/zh-CN/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.baofeng.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl\u003dzh-CN\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "firefox.com.cn/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "ttplayer.qianqian.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "download.pptv.com/computer/pc/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xiuxiu.meitu.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "messenger.windowslive.cn/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.warcraftchina.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "dnf.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.aobi.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "cf.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "17roco.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "web.sanguosha.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "xyq.163.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "1314.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "speed.qq.com/\r\n",
+  "status": 0,
+  "urltype": 4,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.4399.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.duowan.com/\r\n",
+  "status": 0,
+  "urltype": 3,
+  "urltype_ch": "安全",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.uuu9.com/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.ali213.net/\r\n",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}{
+  "url": "www.miibeian.gov.cn/",
+  "status": 0,
+  "urltype": 1,
+  "urltype_ch": "未知",
+  "eviltype": [
+    0
+  ],
+  "eviltype_ch": [
+    "绿色网站"
+  ]
+}
