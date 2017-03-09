@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Created by vici on 09/03/2017
+<<<<<<< HEAD
 #  python tail -f | understand coroutines
 
 import time
@@ -46,3 +47,11 @@ if __name__ == '__main__':
 
 
 
+=======
+#  python tail -f
+
+
+
+if __name__ == '__main__':
+    pass
+>>>>>>> 2d861a684d24b6a2e845d5bd62638e36311cf1a9
