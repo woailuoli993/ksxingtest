@@ -1,0 +1,33 @@
+@startuml
+
+digraph pic2 {
+    label="
+
+    信任链请求流程「增长式」";
+    rankdir="TB"; //从上到下 top to bottom
+    start[label="bowser 请求验证url", shape=ellipse, stype=filled]
+    searchten[label="查询腾讯", shape=box]
+    iften[label="腾讯检查到", shape=diamond]
+    writetodb[label="写入本地库", shape=box]
+    searchking[label="查询本地库", shape=box]
+    ifking[label="本地检查到",shape=diamond]
+
+    safeout[label="安全输出", shape=circle]
+    unsafeout[label="问题输出", shape=circle]
+    {rank=same;safeout unsafeout}
+    start -> searchten
+    searchten -> iften
+    iften -> writetodb[label="有货"]
+    iften -> searchking[label="没货"]
+    writetodb -> safeout
+    writetodb -> unsafeout
+    searchking -> ifking
+    ifking -> unsafeout[label="查到问题"]
+    ifking -> safeout[label="没查到"]
+
+
+
+
+
+}
+@enduml
