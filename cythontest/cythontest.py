@@ -16,17 +16,17 @@ udpquery.restype = c_int
 
 
 if __name__ == '__main__':
-    url = "gayhub.com"
-    host = "cloud.urlsec.qq.com"
-    appid = "123123123"
-    key = "sdsd"
-    port = "15113"
-    version = "1.0"
+
+    # for python 3
+    url = b"gayhub.com"
+    host = b"cloud.urlsec.qq.com"
+    appid = b"168"
+    key = b"Vgci0Pl36rgsNKG6fPaXMUGcXy8Bs4Am"
+    port = b"15113"
+    version = b"1.0"
     retbuf = create_string_buffer(2048)
     retlen = 2048
     foolen = udpquery(url, host, appid, key, port, version, retbuf, retlen)
-    print 'ok'
-    print retbuf.value
-    print foolen
-
-    pass
+    print('ok')
+    print(retbuf.value.decode())
+    print(foolen)
