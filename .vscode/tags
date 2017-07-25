@@ -1,0 +1,579 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddQuery	../elasitctest/test_sphinx_api.py	/^    def AddQuery (self, query, index='*', comment=''):$/;"	kind:member	line:514
+AssertInt32	../elasitctest/test_sphinx_api.py	/^def AssertInt32 ( value ):$/;"	kind:function	line:1104
+AssertUInt32	../elasitctest/test_sphinx_api.py	/^def AssertUInt32 ( value ):$/;"	kind:function	line:1108
+AtoZ.py	../funnytest/AtoZ.py	1;"	kind:file	line:1
+BaseHandler	../coroutinetest/tormmotest.py	/^class BaseHandler(web.RequestHandler):$/;"	kind:class	line:11
+BuildExcerpts	../elasitctest/test_sphinx_api.py	/^    def BuildExcerpts (self, docs, index, words, opts=None):$/;"	kind:member	line:775
+BuildKeywords	../elasitctest/test_sphinx_api.py	/^    def BuildKeywords ( self, query, index, hits ):$/;"	kind:member	line:964
+By	../wechattest/results.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:8
+CELERY_BROKER_URL	../celerytest/rabbittest.py	/^CELERY_BROKER_URL = 'mongodb:\/\/10.174.93.111:27017\/celery'$/;"	kind:variable	line:8
+CELERY_RESULT_BACKEND	../celerytest/rabbittest.py	/^CELERY_RESULT_BACKEND = 'mongodb:\/\/10.174.93.111:27017\/celery'$/;"	kind:variable	line:9
+CELERY_TASK_RESULT_EXPIRES	../celerytest/rabbittest.py	/^CELERY_TASK_RESULT_EXPIRES = 3600$/;"	kind:variable	line:29
+CELERY_TASK_SERIALIZER	../celerytest/rabbittest.py	/^CELERY_TASK_SERIALIZER = 'json'$/;"	kind:variable	line:10
+Calulator	../moduletest/firetest	/^class Calulator(object):$/;"	kind:class	line:7
+Celery	../celerytest/rabbittest.py	/^from celery import Celery$/;"	kind:namespace	line:4
+ClassProperty	../dosth/class_property.py	/^class ClassProperty:$/;"	kind:class	line:6
+Close	../elasitctest/test_sphinx_api.py	/^    def Close(self):$/;"	kind:member	line:1077
+Countdown	../cookbooktest/c3_test.py	/^class Countdown:$/;"	kind:class	line:39
+Decimal	../funnytest/dobo.py	/^from decimal import Decimal$/;"	kind:namespace	line:4
+ET	../dosth/prasexml.py	/^import xml.etree.ElementTree as ET$/;"	kind:namespace	line:5
+Edge	../dosth/mostprointonline.py	/^class Edge(tuple):$/;"	kind:class	line:31
+Elasticsearch	../elasitctest/elasticsearchtext1.py	/^from elasticsearch import Elasticsearch$/;"	kind:namespace	line:1
+Elasticsearch	../elasitctest/elastictest3.py	/^from elasticsearch import Elasticsearch$/;"	kind:namespace	line:2
+EscapeString	../elasitctest/test_sphinx_api.py	/^    def EscapeString(self, string):$/;"	kind:member	line:1084
+FlushAttributes	../elasitctest/test_sphinx_api.py	/^    def FlushAttributes(self):$/;"	kind:member	line:1088
+Fraction	../dosth/mostprointonline.py	/^from fractions import Fraction$/;"	kind:namespace	line:15
+GetLastError	../elasitctest/test_sphinx_api.py	/^    def GetLastError (self):$/;"	kind:member	line:158
+GetLastWarning	../elasitctest/test_sphinx_api.py	/^    def GetLastWarning (self):$/;"	kind:member	line:165
+Graph	../dosth/mostprointonline.py	/^class Graph(dict):$/;"	kind:class	line:40
+HTTPServer	../coroutinetest/tormmotest.py	/^from tornado.httpserver import HTTPServer$/;"	kind:namespace	line:3
+IOLoop	../coroutinetest/tormmotest.py	/^from tornado.ioloop import IOLoop$/;"	kind:namespace	line:2
+Keys	../wechattest/results.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+LifoQueue	../dosth/testthread.py	/^    from Queue import PriorityQueue, LifoQueue$/;"	kind:namespace	line:205
+MongoClient	../elasitctest/dosthtomongo.py	/^from pymongo import MongoClient$/;"	kind:namespace	line:3
+MongoClient	../elasitctest/mongo_replica_set.py	/^from pymongo import MongoClient$/;"	kind:namespace	line:5
+MyTestClass	../dosth/class_property.py	/^class MyTestClass:$/;"	kind:class	line:21
+Node	../cookbooktest/c3_test.py	/^class Node:$/;"	kind:class	line:6
+ObjectId	../elasitctest/dosthtomongo.py	/^from bson.objectid import ObjectId$/;"	kind:namespace	line:4
+Open	../elasitctest/test_sphinx_api.py	/^    def Open(self):$/;"	kind:member	line:1061
+PriorityQueue	../dosth/testthread.py	/^    from Queue import PriorityQueue$/;"	kind:namespace	line:233
+PriorityQueue	../dosth/testthread.py	/^    from Queue import PriorityQueue, LifoQueue$/;"	kind:namespace	line:205
+Query	../elasitctest/test_sphinx_api.py	/^    def Query (self, query, index='*', comment=''):$/;"	kind:member	line:495
+Queue	../dosth/testthread.py	/^from Queue import Queue$/;"	kind:namespace	line:8
+ResetFilters	../elasitctest/test_sphinx_api.py	/^    def ResetFilters (self):$/;"	kind:member	line:477
+ResetGroupBy	../elasitctest/test_sphinx_api.py	/^    def ResetGroupBy (self):$/;"	kind:member	line:485
+ResetOverrides	../elasitctest/test_sphinx_api.py	/^    def ResetOverrides (self):$/;"	kind:member	line:473
+RunQueries	../elasitctest/test_sphinx_api.py	/^    def RunQueries (self):$/;"	kind:member	line:621
+SEARCHD_COMMAND_EXCERPT	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_EXCERPT		= 1$/;"	kind:variable	line:26
+SEARCHD_COMMAND_FLUSHATTRS	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_FLUSHATTRS	= 7$/;"	kind:variable	line:31
+SEARCHD_COMMAND_KEYWORDS	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_KEYWORDS	= 3$/;"	kind:variable	line:28
+SEARCHD_COMMAND_PERSIST	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_PERSIST		= 4$/;"	kind:variable	line:29
+SEARCHD_COMMAND_SEARCH	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_SEARCH		= 0$/;"	kind:variable	line:25
+SEARCHD_COMMAND_STATUS	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_STATUS		= 5$/;"	kind:variable	line:30
+SEARCHD_COMMAND_UPDATE	../elasitctest/test_sphinx_api.py	/^SEARCHD_COMMAND_UPDATE		= 2$/;"	kind:variable	line:27
+SEARCHD_ERROR	../elasitctest/test_sphinx_api.py	/^SEARCHD_ERROR			= 1$/;"	kind:variable	line:43
+SEARCHD_OK	../elasitctest/test_sphinx_api.py	/^SEARCHD_OK				= 0$/;"	kind:variable	line:42
+SEARCHD_RETRY	../elasitctest/test_sphinx_api.py	/^SEARCHD_RETRY			= 2$/;"	kind:variable	line:44
+SEARCHD_WARNING	../elasitctest/test_sphinx_api.py	/^SEARCHD_WARNING			= 3$/;"	kind:variable	line:45
+SPH_ATTR_BIGINT	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_BIGINT			= 6$/;"	kind:variable	line:88
+SPH_ATTR_BOOL	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_BOOL			= 4$/;"	kind:variable	line:86
+SPH_ATTR_FLOAT	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_FLOAT			= 5$/;"	kind:variable	line:87
+SPH_ATTR_INTEGER	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_INTEGER		= 1$/;"	kind:variable	line:83
+SPH_ATTR_MULTI	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_MULTI			= 0X40000001L$/;"	kind:variable	line:90
+SPH_ATTR_MULTI64	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_MULTI64		= 0X40000002L$/;"	kind:variable	line:91
+SPH_ATTR_NONE	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_NONE			= 0$/;"	kind:variable	line:82
+SPH_ATTR_ORDINAL	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_ORDINAL		= 3$/;"	kind:variable	line:85
+SPH_ATTR_STRING	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_STRING			= 7$/;"	kind:variable	line:89
+SPH_ATTR_TIMESTAMP	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_TIMESTAMP		= 2$/;"	kind:variable	line:84
+SPH_ATTR_TYPES	../elasitctest/test_sphinx_api.py	/^SPH_ATTR_TYPES = (SPH_ATTR_NONE,$/;"	kind:variable	line:93
+SPH_FILTER_FLOATRANGE	../elasitctest/test_sphinx_api.py	/^SPH_FILTER_FLOATRANGE	= 2$/;"	kind:variable	line:79
+SPH_FILTER_RANGE	../elasitctest/test_sphinx_api.py	/^SPH_FILTER_RANGE		= 1$/;"	kind:variable	line:78
+SPH_FILTER_VALUES	../elasitctest/test_sphinx_api.py	/^SPH_FILTER_VALUES		= 0$/;"	kind:variable	line:77
+SPH_GROUPBY_ATTR	../elasitctest/test_sphinx_api.py	/^SPH_GROUPBY_ATTR		= 4$/;"	kind:variable	line:109
+SPH_GROUPBY_ATTRPAIR	../elasitctest/test_sphinx_api.py	/^SPH_GROUPBY_ATTRPAIR	= 5$/;"	kind:variable	line:110
+SPH_GROUPBY_DAY	../elasitctest/test_sphinx_api.py	/^SPH_GROUPBY_DAY	 		= 0$/;"	kind:variable	line:105
+SPH_GROUPBY_MONTH	../elasitctest/test_sphinx_api.py	/^SPH_GROUPBY_MONTH		= 2$/;"	kind:variable	line:107
+SPH_GROUPBY_WEEK	../elasitctest/test_sphinx_api.py	/^SPH_GROUPBY_WEEK		= 1$/;"	kind:variable	line:106
+SPH_GROUPBY_YEAR	../elasitctest/test_sphinx_api.py	/^SPH_GROUPBY_YEAR		= 3$/;"	kind:variable	line:108
+SPH_MATCH_ALL	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_ALL			= 0$/;"	kind:variable	line:48
+SPH_MATCH_ANY	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_ANY			= 1$/;"	kind:variable	line:49
+SPH_MATCH_BOOLEAN	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_BOOLEAN		= 3$/;"	kind:variable	line:51
+SPH_MATCH_EXTENDED	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_EXTENDED		= 4$/;"	kind:variable	line:52
+SPH_MATCH_EXTENDED2	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_EXTENDED2		= 6$/;"	kind:variable	line:54
+SPH_MATCH_FULLSCAN	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_FULLSCAN		= 5$/;"	kind:variable	line:53
+SPH_MATCH_PHRASE	../elasitctest/test_sphinx_api.py	/^SPH_MATCH_PHRASE		= 2$/;"	kind:variable	line:50
+SPH_RANK_BM25	../elasitctest/test_sphinx_api.py	/^SPH_RANK_BM25			= 1 # statistical mode, BM25 ranking only (faster but worse quality)$/;"	kind:variable	line:58
+SPH_RANK_EXPR	../elasitctest/test_sphinx_api.py	/^SPH_RANK_EXPR			= 8$/;"	kind:variable	line:65
+SPH_RANK_FIELDMASK	../elasitctest/test_sphinx_api.py	/^SPH_RANK_FIELDMASK		= 6$/;"	kind:variable	line:63
+SPH_RANK_MATCHANY	../elasitctest/test_sphinx_api.py	/^SPH_RANK_MATCHANY		= 5$/;"	kind:variable	line:62
+SPH_RANK_NONE	../elasitctest/test_sphinx_api.py	/^SPH_RANK_NONE			= 2 # no ranking, all matches get a weight of 1$/;"	kind:variable	line:59
+SPH_RANK_PROXIMITY	../elasitctest/test_sphinx_api.py	/^SPH_RANK_PROXIMITY		= 4$/;"	kind:variable	line:61
+SPH_RANK_PROXIMITY_BM25	../elasitctest/test_sphinx_api.py	/^SPH_RANK_PROXIMITY_BM25	= 0 # default mode, phrase proximity major factor and BM25 minor one$/;"	kind:variable	line:57
+SPH_RANK_SPH04	../elasitctest/test_sphinx_api.py	/^SPH_RANK_SPH04			= 7$/;"	kind:variable	line:64
+SPH_RANK_TOTAL	../elasitctest/test_sphinx_api.py	/^SPH_RANK_TOTAL			= 9$/;"	kind:variable	line:66
+SPH_RANK_WORDCOUNT	../elasitctest/test_sphinx_api.py	/^SPH_RANK_WORDCOUNT		= 3 # simple word-count weighting, rank is a weighted sum of per-field keyword occurence counts$/;"	kind:variable	line:60
+SPH_SORT_ATTR_ASC	../elasitctest/test_sphinx_api.py	/^SPH_SORT_ATTR_ASC		= 2$/;"	kind:variable	line:71
+SPH_SORT_ATTR_DESC	../elasitctest/test_sphinx_api.py	/^SPH_SORT_ATTR_DESC		= 1$/;"	kind:variable	line:70
+SPH_SORT_EXPR	../elasitctest/test_sphinx_api.py	/^SPH_SORT_EXPR			= 5$/;"	kind:variable	line:74
+SPH_SORT_EXTENDED	../elasitctest/test_sphinx_api.py	/^SPH_SORT_EXTENDED		= 4$/;"	kind:variable	line:73
+SPH_SORT_RELEVANCE	../elasitctest/test_sphinx_api.py	/^SPH_SORT_RELEVANCE		= 0$/;"	kind:variable	line:69
+SPH_SORT_TIME_SEGMENTS	../elasitctest/test_sphinx_api.py	/^SPH_SORT_TIME_SEGMENTS	= 3$/;"	kind:variable	line:72
+SetConnectTimeout	../elasitctest/test_sphinx_api.py	/^    def SetConnectTimeout ( self, timeout ):$/;"	kind:member	line:188
+SetFieldWeights	../elasitctest/test_sphinx_api.py	/^    def SetFieldWeights (self, weights):$/;"	kind:member	line:356
+SetFilter	../elasitctest/test_sphinx_api.py	/^    def SetFilter ( self, attribute, values, exclude=0 ):$/;"	kind:member	line:390
+SetFilterFloatRange	../elasitctest/test_sphinx_api.py	/^    def SetFilterFloatRange (self, attribute, min_, max_, exclude=0 ):$/;"	kind:member	line:417
+SetFilterRange	../elasitctest/test_sphinx_api.py	/^    def SetFilterRange (self, attribute, min_, max_, exclude=0 ):$/;"	kind:member	line:404
+SetGeoAnchor	../elasitctest/test_sphinx_api.py	/^    def SetGeoAnchor (self, attrlat, attrlong, latitude, longitude):$/;"	kind:member	line:425
+SetGroupBy	../elasitctest/test_sphinx_api.py	/^    def SetGroupBy ( self, attribute, func, groupsort='@group desc' ):$/;"	kind:member	line:436
+SetGroupDistinct	../elasitctest/test_sphinx_api.py	/^    def SetGroupDistinct (self, attribute):$/;"	kind:member	line:449
+SetIDRange	../elasitctest/test_sphinx_api.py	/^    def SetIDRange (self, minid, maxid):$/;"	kind:member	line:378
+SetIndexWeights	../elasitctest/test_sphinx_api.py	/^    def SetIndexWeights (self, weights):$/;"	kind:member	line:367
+SetLimits	../elasitctest/test_sphinx_api.py	/^    def SetLimits (self, offset, limit, maxmatches=0, cutoff=0):$/;"	kind:member	line:295
+SetMatchMode	../elasitctest/test_sphinx_api.py	/^    def SetMatchMode (self, mode):$/;"	kind:member	line:318
+SetMaxQueryTime	../elasitctest/test_sphinx_api.py	/^    def SetMaxQueryTime (self, maxquerytime):$/;"	kind:member	line:310
+SetOverride	../elasitctest/test_sphinx_api.py	/^    def SetOverride (self, name, type, values):$/;"	kind:member	line:461
+SetRankingMode	../elasitctest/test_sphinx_api.py	/^    def SetRankingMode ( self, ranker, rankexpr='' ):$/;"	kind:member	line:326
+SetRetries	../elasitctest/test_sphinx_api.py	/^    def SetRetries (self, count, delay=0):$/;"	kind:member	line:454
+SetSelect	../elasitctest/test_sphinx_api.py	/^    def SetSelect (self, select):$/;"	kind:member	line:468
+SetServer	../elasitctest/test_sphinx_api.py	/^    def SetServer (self, host, port = None):$/;"	kind:member	line:172
+SetSortMode	../elasitctest/test_sphinx_api.py	/^    def SetSortMode ( self, mode, clause='' ):$/;"	kind:member	line:335
+SetWeights	../elasitctest/test_sphinx_api.py	/^    def SetWeights (self, weights):$/;"	kind:member	line:345
+SimpleMapReduce	../dosth/testmapreducemultiprocess.py	/^class SimpleMapReduce(object):$/;"	kind:class	line:11
+SimpleMapReduce	../dosth/url.py	/^class SimpleMapReduce(object):$/;"	kind:class	line:13
+Solution	../dosth/mostprointonline.py	/^class Solution:$/;"	kind:class	line:133
+Solution	../funnytest/exam1.py	/^class Solution(object):$/;"	kind:class	line:13
+SphinxClient	../elasitctest/test_sphinx_api.py	/^class SphinxClient:$/;"	kind:class	line:113
+Status	../elasitctest/test_sphinx_api.py	/^    def Status ( self ):$/;"	kind:member	line:1025
+ThreadingPool	../dosth/testthread.py	/^class ThreadingPool(object):$/;"	kind:class	line:315
+TutorialHandler	../coroutinetest/tormmotest.py	/^class TutorialHandler(BaseHandler):$/;"	kind:class	line:17
+UpdateAttributes	../elasitctest/test_sphinx_api.py	/^    def UpdateAttributes ( self, index, attrs, values, mva=False ):$/;"	kind:member	line:893
+User	../cookbooktest/c1_t14.py	/^class User:$/;"	kind:class	line:6
+VER_COMMAND_EXCERPT	../elasitctest/test_sphinx_api.py	/^VER_COMMAND_EXCERPT		= 0x103$/;"	kind:variable	line:35
+VER_COMMAND_FLUSHATTRS	../elasitctest/test_sphinx_api.py	/^VER_COMMAND_FLUSHATTRS	= 0x100$/;"	kind:variable	line:39
+VER_COMMAND_KEYWORDS	../elasitctest/test_sphinx_api.py	/^VER_COMMAND_KEYWORDS	= 0x100$/;"	kind:variable	line:37
+VER_COMMAND_SEARCH	../elasitctest/test_sphinx_api.py	/^VER_COMMAND_SEARCH		= 0x119$/;"	kind:variable	line:34
+VER_COMMAND_STATUS	../elasitctest/test_sphinx_api.py	/^VER_COMMAND_STATUS		= 0x100$/;"	kind:variable	line:38
+VER_COMMAND_UPDATE	../elasitctest/test_sphinx_api.py	/^VER_COMMAND_UPDATE		= 0x102$/;"	kind:variable	line:36
+Vertex	../dosth/mostprointonline.py	/^class Vertex(object):$/;"	kind:class	line:19
+WECHAT_OFICAL_APPID	../wechattest/getwechttoken.py	/^from config import WECHAT_OFICAL_APPID, WECHAT_OFICAL_SCERCT$/;"	kind:namespace	line:2
+WECHAT_OFICAL_SCERCT	../wechattest/getwechttoken.py	/^from config import WECHAT_OFICAL_APPID, WECHAT_OFICAL_SCERCT$/;"	kind:namespace	line:2
+WeChatClient	../wechattest/getwechttoken.py	/^from wechatpy import WeChatClient$/;"	kind:namespace	line:3
+Worker	../dosth/testthread.py	/^class Worker(threading.Thread):$/;"	kind:class	line:295
+_Connect	../elasitctest/test_sphinx_api.py	/^    def _Connect (self):$/;"	kind:member	line:196
+_GetResponse	../elasitctest/test_sphinx_api.py	/^    def _GetResponse (self, sock, client_ver):$/;"	kind:member	line:241
+__call__	../dosth/testmapreducemultiprocess.py	/^    def __call__(self, inputs, chunksize=1):$/;"	kind:member	line:46
+__call__	../dosth/url.py	/^    def __call__(self, inputs, chunksize=1):$/;"	kind:member	line:48
+__del__	../elasitctest/test_sphinx_api.py	/^    def __del__ (self):$/;"	kind:member	line:153
+__get__	../dosth/class_property.py	/^    def __get__(self, instance, owner):$/;"	kind:member	line:13
+__init__	../cookbooktest/c1_t14.py	/^    def __init__(self, user_id):$/;"	kind:member	line:7
+__init__	../cookbooktest/c3_test.py	/^    def __init__(self, start):$/;"	kind:member	line:40
+__init__	../cookbooktest/c3_test.py	/^    def __init__(self, value):$/;"	kind:member	line:7
+__init__	../dosth/class_property.py	/^    def __init__(self):$/;"	kind:member	line:24
+__init__	../dosth/class_property.py	/^    def __init__(self, f):$/;"	kind:member	line:8
+__init__	../dosth/mostprointonline.py	/^    def __init__(self, vs=[], es=[]):$/;"	kind:member	line:42
+__init__	../dosth/mostprointonline.py	/^    def __init__(self, x, y):$/;"	kind:member	line:21
+__init__	../dosth/testmapreducemultiprocess.py	/^    def __init__(self, map_func, reduce_func, num_workers=None):$/;"	kind:member	line:12
+__init__	../dosth/testthread.py	/^    def __init__(self, num_con=5):$/;"	kind:member	line:317
+__init__	../dosth/testthread.py	/^    def __init__(self, queue):$/;"	kind:member	line:296
+__init__	../dosth/url.py	/^    def __init__(self, map_func, reduce_func, num_workers=10):$/;"	kind:member	line:14
+__init__	../elasitctest/test_sphinx_api.py	/^    def __init__ (self):$/;"	kind:member	line:114
+__init__	../funnytest/dobo.py	/^    def __init__(self):$/;"	kind:member	line:8
+__init__.py	../celerytest/__init__.py	1;"	kind:file	line:1
+__init__.py	../cookbooktest/__init__.py	1;"	kind:file	line:1
+__init__.py	../coroutinetest/__init__.py	1;"	kind:file	line:1
+__init__.py	../dosth/__init__.py	1;"	kind:file	line:1
+__init__.py	../elasitctest/__init__.py	1;"	kind:file	line:1
+__init__.py	../funnytest/__init__.py	1;"	kind:file	line:1
+__init__.py	../threadmulittest/__init__.py	1;"	kind:file	line:1
+__init__.py	../wechattest/__init__.py	1;"	kind:file	line:1
+__init__.py	../xlrdtest/__init__.py	1;"	kind:file	line:1
+__iter__	../cookbooktest/c3_test.py	/^    def __iter__(self):$/;"	kind:member	line:17
+__iter__	../cookbooktest/c3_test.py	/^    def __iter__(self):$/;"	kind:member	line:44
+__new__	../dosth/mostprointonline.py	/^    def __new__(cls, e1, e2):$/;"	kind:member	line:33
+__repr__	../cookbooktest/c1_t14.py	/^    def __repr__(self):$/;"	kind:member	line:10
+__repr__	../cookbooktest/c3_test.py	/^    def __repr__(self):$/;"	kind:member	line:11
+__repr__	../dosth/mostprointonline.py	/^    def __repr__(self):$/;"	kind:member	line:25
+__repr__	../dosth/mostprointonline.py	/^    def __repr__(self):$/;"	kind:member	line:36
+__reversed__	../cookbooktest/c3_test.py	/^    def __reversed__(self):$/;"	kind:member	line:20
+__reversed__	../cookbooktest/c3_test.py	/^    def __reversed__(self):$/;"	kind:member	line:51
+__set__	../dosth/class_property.py	/^    def __set__(self, instance, value):$/;"	kind:member	line:17
+__str__	../dosth/mostprointonline.py	/^    __str__ = __repr__$/;"	kind:variable	line:28
+_file	../cythontest/cythontest.py	/^_file = '.\/libudpquery.so'$/;"	kind:variable	line:8
+_mod	../cythontest/cythontest.py	/^_mod = cdll.LoadLibrary(_path)$/;"	kind:variable	line:10
+_path	../cythontest/cythontest.py	/^_path = os.path.join(*(os.path.split(__file__)[:-1] + (_file,)))$/;"	kind:variable	line:9
+a	../funnytest/ifcon.py	/^a = 1$/;"	kind:variable	line:1
+a	../funnytest/praisewithzhengze.py	/^    a = "abcff23423fffsfertgrff234234fffwvgwegweff444fffwerwegrewff13244fff"$/;"	kind:variable	line:16
+a_main	../cookbooktest/c2_t2.py	/^def a_main():$/;"	kind:function	line:7
+aboutnmap.py	../dosth/aboutnmap.py	1;"	kind:file	line:1
+acputest.py	../funnytest/acputest.py	1;"	kind:file	line:1
+add	../celerytest/rabbittest.py	/^def add(x, y):$/;"	kind:function	line:18
+addOneSum	../funnytest/myadd.py	/^def addOneSum(a):$/;"	kind:function	line:7
+add_all_edges	../dosth/mostprointonline.py	/^    def add_all_edges(self, vs=None):$/;"	kind:member	line:83
+add_child	../cookbooktest/c3_test.py	/^    def add_child(self, node):$/;"	kind:member	line:14
+add_edge	../dosth/mostprointonline.py	/^    def add_edge(self, e):$/;"	kind:member	line:53
+add_task	../dosth/testthread.py	/^    def add_task(self, f, *args, **kwargs):$/;"	kind:member	line:322
+add_vertex	../dosth/mostprointonline.py	/^    def add_vertex(self, v):$/;"	kind:member	line:49
+addnodeToClassTree	../xlrdtest/treeinsert.py	/^def addnodeToClassTree(pid, cname):$/;"	kind:function	line:29
+addr	../sockettest/tcpserver_base.py	/^addr = (host, port)$/;"	kind:variable	line:29
+allpnum	../funnytest/tencent.py	/^    allpnum = set(filter(lambda x: not [x % i for i in range(2, int(math.sqrt(x))+1) if x%i == 0], range(2, num+1)))$/;"	kind:variable	line:4
+alpTomun	../funnytest/AtoZ.py	/^alpTomun = dict(zip(string.ascii_lowercase, range(1, 27)))$/;"	kind:variable	line:10
+amathaddtest.py	../funnytest/amathaddtest.py	1;"	kind:file	line:1
+app	../celerytest/rabbittest.py	/^app = Celery(__name__, broker=CELERY_BROKER_URL, backend=CELERY_RESULT_BACKEND)$/;"	kind:variable	line:12
+app	../celerytest/tesks/teskmin.py	/^from celerytest.rabbittest import app$/;"	kind:namespace	line:2
+appid	../cythontest/cythontest.py	/^    appid = b"168"$/;"	kind:variable	line:23
+application	../coroutinetest/tormmotest.py	/^    application = web.Application([$/;"	kind:variable	line:25
+asyncio	../asynctest/asyncpgtest.py	/^import asyncio$/;"	kind:namespace	line:1
+asyncio	../coroutinetest/asynciotest.py	/^import asyncio$/;"	kind:namespace	line:6
+asyncio	../coroutinetest/testsum.py	/^import asyncio$/;"	kind:namespace	line:1
+asyncio	../coroutinetest/timeasynctest.py	/^import asyncio$/;"	kind:namespace	line:1
+asynciotest.py	../coroutinetest/asynciotest.py	1;"	kind:file	line:1
+asyncpg	../asynctest/asyncpgtest.py	/^import asyncpg$/;"	kind:namespace	line:2
+asyncpgtest.py	../asynctest/asyncpgtest.py	1;"	kind:file	line:1
+b	../funnytest/ifcon.py	/^b = 2$/;"	kind:variable	line:2
+b	../funnytest/praisewithzhengze.py	/^    b = getnumfromstr(a, 'ff', 'fff')$/;"	kind:variable	line:17
+b_main	../cookbooktest/c2_t2.py	/^def b_main(m):$/;"	kind:function	line:12
+balance	../dosth/testthread.py	/^balance = 1000$/;"	kind:variable	line:68
+bfs	../dosth/mostprointonline.py	/^    def bfs(self):$/;"	kind:member	line:94
+buffer	../sockettest/tcpclient_base.py	/^    buffer = []$/;"	kind:variable	line:13
+c	../coroutinetest/test1.py	/^    c = consumer()$/;"	kind:variable	line:30
+c	../coroutinetest/testyield.py	/^    c = coutdown(5)$/;"	kind:variable	line:40
+c1_t14.py	../cookbooktest/c1_t14.py	1;"	kind:file	line:1
+c2_t2.py	../cookbooktest/c2_t2.py	1;"	kind:file	line:1
+c3_test.py	../cookbooktest/c3_test.py	1;"	kind:file	line:1
+change_balance	../dosth/testthread.py	/^def change_balance():$/;"	kind:function	line:72
+class_property.py	../dosth/class_property.py	1;"	kind:file	line:1
+client	../elasitctest/dosthtomongo.py	/^client = MongoClient('localhost', 27017)$/;"	kind:variable	line:7
+client	../elasitctest/mongo_replica_set.py	/^client = MongoClient('localhost',27017)$/;"	kind:variable	line:7
+closuretest.py	../cookbooktest/closuretest.py	1;"	kind:file	line:1
+cmd	../funnytest/pisoundsocket.py	/^cmd='nc -l 8077 > \/dev\/tty1'#pts\/0'$/;"	kind:variable	line:16
+collection	../elasitctest/dosthtomongo.py	/^collection = db.protestcol$/;"	kind:variable	line:10
+collection	../elasitctest/mongo_replica_set.py	/^collection = db.testcol$/;"	kind:variable	line:12
+collections	../dosth/testmapreducemultiprocess.py	/^import collections$/;"	kind:namespace	line:5
+collections	../dosth/url.py	/^import collections$/;"	kind:namespace	line:7
+compute	../coroutinetest/testsum.py	/^async def compute(x, y):$/;"	kind:function	line:3
+con	../threadmulittest/threadtest3.py	/^con = threading.Condition()$/;"	kind:variable	line:8
+config_elastic_river	../elasitctest/elasticsearchtest2.py	/^def config_elastic_river(conf_mongo_uri):$/;"	kind:function	line:38
+conn	../dbtest/postgretest.py	/^    conn = psycopg2.connect("dbname=postgres user=postgres password=kingsoft host=192.168.223.61 port=25432")$/;"	kind:variable	line:8
+consumber_producer_event	../dosth/testthread.py	/^def consumber_producer_event():$/;"	kind:function	line:154
+consume	../threadmulittest/threadtest3.py	/^def consume():$/;"	kind:function	line:30
+consumer	../coroutinetest/test1.py	/^def consumer():$/;"	kind:function	line:6
+consumer	../dosth/testthread.py	/^    def consumer():$/;"	kind:function	line:219
+consumer	../dosth/testthread.py	/^    def consumer():$/;"	kind:function	line:240
+consumer	../dosth/testthread.py	/^    def consumer(cond):$/;"	kind:function	line:128
+consumer	../dosth/testthread.py	/^    def consumer(event, l):$/;"	kind:function	line:163
+consumer_producer	../dosth/testthread.py	/^def consumer_producer():$/;"	kind:function	line:125
+consumer_producer_priqueue	../dosth/testthread.py	/^def consumer_producer_priqueue():$/;"	kind:function	line:230
+consumer_producer_queue	../dosth/testthread.py	/^def consumer_producer_queue():$/;"	kind:function	line:201
+conts	../funnytest/tencent.py	/^    conts = set([])$/;"	kind:variable	line:6
+coroutine	../coroutinetest/testcoroutines.py	/^def coroutine(func):$/;"	kind:function	line:10
+count	../sockettest/tcpclient_base.py	/^count = 1$/;"	kind:variable	line:8
+count	../sockettest/tcpserver_base.py	/^count = 1$/;"	kind:variable	line:36
+count_words	../dosth/testmapreducemultiprocess.py	/^def count_words(item):$/;"	kind:function	line:86
+count_words	../dosth/url.py	/^def count_words():$/;"	kind:function	line:78
+coutdown	../coroutinetest/testyield.py	/^def coutdown(n):$/;"	kind:function	line:21
+cputest	../funnytest/acputest.py	/^def cputest():$/;"	kind:function	line:7
+create_doc	../elasitctest/elasticsearchtest2.py	/^def create_doc(uri, doc_data={}):$/;"	kind:function	line:30
+createfile.py	../dosth/createfile.py	1;"	kind:file	line:1
+cur	../dbtest/postgretest.py	/^    cur = conn.cursor()$/;"	kind:variable	line:9
+cythontest.py	../cythontest/cythontest.py	1;"	kind:file	line:1
+d	../dosth/testthread.py	/^    def d():$/;"	kind:function	line:275
+d	../funnytest/amathaddtest.py	/^def d(n):$/;"	kind:function	line:12
+d	../sockettest/tcpclient_base.py	/^        d = s.recv(4096)$/;"	kind:variable	line:16
+daemon_and_not_daemon	../dosth/testthread.py	/^def daemon_and_not_daemon():$/;"	kind:function	line:268
+data	../sockettest/tcpclient_base.py	/^    data = ''.join(buffer)$/;"	kind:variable	line:21
+data	../sockettest/tcpclient_base.py	/^    data = int(data)$/;"	kind:variable	line:23
+data	../threadmulittest/threadtest1.py	/^data = 0$/;"	kind:variable	line:5
+datepat	../cookbooktest/c2_t2.py	/^    datepat = re.compile(r'(\\d+)\/(\\d+)\/(\\d+)')$/;"	kind:variable	line:25
+datetime	../coroutinetest/timeasynctest.py	/^import datetime$/;"	kind:namespace	line:2
+datetime	../elasitctest/elastictest3.py	/^from datetime import datetime$/;"	kind:namespace	line:3
+datetime	../elasitctest/mongo_replica_set.py	/^import datetime$/;"	kind:namespace	line:14
+db	../coroutinetest/tormmotest.py	/^    def db(self):$/;"	kind:member	line:13
+db	../elasitctest/dosthtomongo.py	/^db = client.train$/;"	kind:variable	line:9
+db	../elasitctest/mongo_replica_set.py	/^db = client.testdb$/;"	kind:variable	line:9
+deploy	../fabrictest/fabrictest.py	/^def deploy():$/;"	kind:function	line:8
+depth_first	../cookbooktest/c3_test.py	/^    def depth_first(self):$/;"	kind:member	line:27
+deque	../dosth/mostprointonline.py	/^from collections import deque$/;"	kind:namespace	line:16
+designate.py	../dosth/designate.py	1;"	kind:file	line:1
+display_date	../coroutinetest/timeasynctest.py	/^async def display_date(loop):$/;"	kind:function	line:4
+dobo.py	../funnytest/dobo.py	1;"	kind:file	line:1
+dockertest.py	../dockerscrawl/dockertest.py	1;"	kind:file	line:1
+domywork	../coroutinetest/timeasynctest.py	/^async def domywork(a):$/;"	kind:function	line:15
+dosthtomongo.py	../elasitctest/dosthtomongo.py	1;"	kind:file	line:1
+dothers	../funnytest/amathaddtest.py	/^def dothers(n):$/;"	kind:function	line:26
+double	../dosth/testthread.py	/^    def double(num):$/;"	kind:function	line:209
+double	../moduletest/firetest	/^    def double(self, number):$/;"	kind:member	line:10
+downlist	../funnytest/jsonfiletest.py	/^    downlist = list(map(lambda x: x.get('m4a'), songsinfo))$/;"	kind:variable	line:33
+edges	../dosth/mostprointonline.py	/^    def edges(self):$/;"	kind:member	line:72
+elasticsearchtest2.py	../elasitctest/elasticsearchtest2.py	1;"	kind:file	line:1
+elasticsearchtext1.py	../elasitctest/elasticsearchtext1.py	1;"	kind:file	line:1
+elastictest3.py	../elasitctest/elastictest3.py	1;"	kind:file	line:1
+es	../elasitctest/elasticsearchtext1.py	/^    es = Elasticsearch()$/;"	kind:variable	line:4
+es	../elasitctest/elastictest3.py	/^    es = Elasticsearch([{'host': '10.174.93.111', 'port': '9200'}])$/;"	kind:variable	line:7
+es_search_one	../elasitctest/elastictest3.py	/^    es_search_one = es.search(index='ksxing', doc_type='testqm', body={$/;"	kind:variable	line:12
+etree	../dosth/prasexml.py	/^import xml.etree.ElementTree as ET$/;"	kind:namespace	line:5
+exam1.py	../funnytest/exam1.py	1;"	kind:file	line:1
+f	../coroutinetest/testcoroutines.py	/^    f = open("1", 'rb')$/;"	kind:variable	line:41
+fabrictest.py	../fabrictest/fabrictest.py	1;"	kind:file	line:1
+fib	../coroutinetest/testyield.py	/^def fib():  # 生成器$/;"	kind:function	line:6
+fib	../dosth/testthread.py	/^def fib(n):$/;"	kind:function	line:42
+file_to_words	../dosth/testmapreducemultiprocess.py	/^def file_to_words(filename):$/;"	kind:function	line:62
+file_to_words	../dosth/url.py	/^def file_to_words(filename):$/;"	kind:function	line:66
+find	../elasitctest/dosthtomongo.py	/^find = collection.find_one({'_id':ObjectId('5790330064325c1f57185e62')})$/;"	kind:variable	line:11
+fire	../moduletest/firetest	/^import fire$/;"	kind:namespace	line:5
+firetest	../moduletest/firetest	1;"	kind:file	line:1
+follow	../coroutinetest/testcoroutines.py	/^def follow(thefile, target):$/;"	kind:function	line:18
+foo	../wechattest/somequsetion.py	/^def foo(x,l=[]):$/;"	kind:function	line:7
+foolen	../cythontest/cythontest.py	/^    foolen = udpquery(url, host, appid, key, port, version, retbuf, retlen)$/;"	kind:variable	line:29
+format	../dosth/testthread.py	/^                    format='(%(threadName)-9s) |||| %(message)s',)$/;"	kind:variable	line:16
+formatToClassTree	../xlrdtest/treeinsert.py	/^def formatToClassTree(classstr):$/;"	kind:function	line:15
+format_results	../elasitctest/elasticsearchtest2.py	/^def format_results(results):$/;"	kind:function	line:21
+fractionToDecimal	../funnytest/exam1.py	/^    def fractionToDecimal(self, numerator, denominator):$/;"	kind:member	line:14
+func	../threadmulittest/threadtes2.py	/^def func():$/;"	kind:function	line:8
+func	../threadmulittest/threadtest1.py	/^def func():$/;"	kind:function	line:9
+future	../coroutinetest/tormmotest.py	/^    future = application.db.connect()$/;"	kind:variable	line:39
+game	../funnytest/dobo.py	/^class game:$/;"	kind:class	line:6
+gen	../coroutinetest/tormmotest.py	/^from tornado import gen$/;"	kind:namespace	line:1
+get	../coroutinetest/tormmotest.py	/^    def get(self):$/;"	kind:member	line:18
+getNum	../funnytest/AtoZ.py	/^def getNum(ascStr):$/;"	kind:function	line:14
+getRes	../funnytest/myadd.py	/^def getRes(a):$/;"	kind:function	line:21
+getWeChatToken	../wechattest/getwechttoken.py	/^def getWeChatToken():$/;"	kind:function	line:5
+get_edge	../dosth/mostprointonline.py	/^    def get_edge(self, v1, v2):$/;"	kind:member	line:61
+getcputemperature	../dosth/prasexml.py	/^def getcputemperature():$/;"	kind:function	line:24
+getinfo_from_elk	../elasitctest/elasticsearchtest2.py	/^def getinfo_from_elk(url):$/;"	kind:function	line:62
+getnumfromstr	../funnytest/jsonfiletest.py	/^def getnumfromstr(strings, ff, fff):$/;"	kind:function	line:8
+getnumfromstr	../funnytest/praisewithzhengze.py	/^def getnumfromstr(strings, ff, fff):$/;"	kind:function	line:8
+getslope	../dosth/mostprointonline.py	/^def getslope(print1, print2):$/;"	kind:function	line:168
+getwechttoken.py	../wechattest/getwechttoken.py	1;"	kind:file	line:1
+getxml	../dosth/prasexml.py	/^def getxml(urls):$/;"	kind:function	line:9
+glob	../dosth/testmapreducemultiprocess.py	/^    import glob$/;"	kind:namespace	line:96
+glob	../dosth/url.py	/^    import glob$/;"	kind:namespace	line:84
+grep	../coroutinetest/testyield.py	/^def grep(pattern):$/;"	kind:function	line:13
+host	../cythontest/cythontest.py	/^    host = b"cloud.urlsec.qq.com"$/;"	kind:variable	line:22
+host	../sockettest/tcpserver_base.py	/^host = '0.0.0.0'$/;"	kind:variable	line:27
+http_server	../coroutinetest/tormmotest.py	/^    http_server = HTTPServer(application)$/;"	kind:variable	line:44
+i	../dosth/class_property.py	/^    i = 0$/;"	kind:variable	line:22
+id	../wechattest/wechat_login_pc.py	/^id = 'wx3dbf3a23e8456f1a'$/;"	kind:variable	line:3
+ifcon.py	../funnytest/ifcon.py	1;"	kind:file	line:1
+ioloop	../coroutinetest/tormmotest.py	/^    ioloop = IOLoop.instance()$/;"	kind:variable	line:29
+ip	../funnytest/pisoundsocket.py	/^ip = '122.138.168.136'$/;"	kind:variable	line:8
+itertools	../dosth/testmapreducemultiprocess.py	/^import itertools$/;"	kind:namespace	line:6
+itertools	../dosth/url.py	/^import itertools$/;"	kind:namespace	line:8
+json	../elasitctest/elasticsearchtest2.py	/^import json$/;"	kind:namespace	line:4
+json	../funnytest/jsonfiletest.py	/^import json$/;"	kind:namespace	line:4
+json	../sockettest/tcpserver_base.py	/^import json$/;"	kind:namespace	line:4
+json_res	../funnytest/jsonfiletest.py	/^    json_res = json.loads(str_res)$/;"	kind:variable	line:30
+json_res	../funnytest/praisewithzhengze.py	/^        json_res = json.dumps(str_res)$/;"	kind:variable	line:23
+jsonfiletest.py	../funnytest/jsonfiletest.py	1;"	kind:file	line:1
+key	../cythontest/cythontest.py	/^    key = b"Vgci0Pl36rgsNKG6fPaXMUGcXy8Bs4Am"$/;"	kind:variable	line:24
+l	../wechattest/somequsetion.py	/^l = []$/;"	kind:variable	line:18
+lock	../dosth/testthread.py	/^lock = threading.Lock()$/;"	kind:variable	line:69
+lock	../threadmulittest/threadtest1.py	/^lock = threading.Lock()$/;"	kind:variable	line:6
+lock_is_important	../dosth/testthread.py	/^def lock_is_important():$/;"	kind:function	line:92
+logging	../dosth/testthread.py	/^import logging$/;"	kind:namespace	line:7
+loop	../asynctest/asyncpgtest.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:15
+loop	../coroutinetest/asynciotest.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:26
+loop	../coroutinetest/testsum.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:12
+loop	../coroutinetest/timeasynctest.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:19
+main	../cookbooktest/c3_test.py	/^def main():$/;"	kind:function	line:58
+main	../cookbooktest/closuretest.py	/^def main():$/;"	kind:function	line:6
+main	../coroutinetest/asynciotest.py	/^def main():$/;"	kind:function	line:15
+main	../dosth/aboutnmap.py	/^def main():$/;"	kind:function	line:6
+main	../dosth/createfile.py	/^def main():$/;"	kind:function	line:6
+main	../dosth/mycsvtojson.py	/^def main():$/;"	kind:function	line:6
+main	../dosth/myemoji.py	/^def main():$/;"	kind:function	line:6
+main	../dosth/prasexml.py	/^def main():$/;"	kind:function	line:29
+main	../dosth/remotedevtest.py	/^def main():$/;"	kind:function	line:6
+main	../dosth/testthread.py	/^def main():$/;"	kind:function	line:340
+main	../elasitctest/redisttest.py	/^def main():$/;"	kind:function	line:9
+main	../funnytest/dobo.py	/^def main():$/;"	kind:function	line:18
+main	../sockettest/uploadfile.py	/^def main():$/;"	kind:function	line:6
+main	../wechattest/results.py	/^def main():$/;"	kind:function	line:15
+math	../funnytest/tencent.py	/^import math$/;"	kind:namespace	line:1
+maxPoints	../dosth/mostprointonline.py	/^    def maxPoints(self, points):$/;"	kind:member	line:137
+min	../celerytest/tesks/teskmin.py	/^def min(a, b):$/;"	kind:function	line:6
+mm	../funnytest/amathaddtest.py	/^    mm = d(10**12)$/;"	kind:variable	line:62
+mmstr	../funnytest/amathaddtest.py	/^    mmstr = str(mm)$/;"	kind:variable	line:65
+momoko	../coroutinetest/tormmotest.py	/^import momoko$/;"	kind:namespace	line:8
+money_laundering	../dosth/testthread.py	/^def money_laundering(num):$/;"	kind:function	line:78
+money_laundering_priveate	../dosth/testthread.py	/^def money_laundering_priveate(num):$/;"	kind:function	line:83
+mongo_replica_set.py	../elasitctest/mongo_replica_set.py	1;"	kind:file	line:1
+month_abbr	../cookbooktest/c2_t2.py	/^    from calendar import month_abbr$/;"	kind:namespace	line:18
+mostprointonline.py	../dosth/mostprointonline.py	1;"	kind:file	line:1
+multiprocessing	../dosth/testmapreducemultiprocess.py	/^import multiprocessing$/;"	kind:namespace	line:7
+multiprocessing	../dosth/url.py	/^import multiprocessing$/;"	kind:namespace	line:9
+my_i	../dosth/class_property.py	/^    def my_i(self):$/;"	kind:member	line:28
+my_unionid	../wechattest/wechat_login_pc.py	/^my_unionid = o16q3wC0re344Hw23KNLvfQ2tH-A$/;"	kind:variable	line:44
+myadd.py	../funnytest/myadd.py	1;"	kind:file	line:1
+mycsvtojson.py	../dosth/mycsvtojson.py	1;"	kind:file	line:1
+myemoji.py	../dosth/myemoji.py	1;"	kind:file	line:1
+myredis	../elasitctest/redisttest.py	/^myredis = redis.StrictRedis()$/;"	kind:variable	line:6
+nd	../dosth/testthread.py	/^    def nd():$/;"	kind:function	line:270
+nothread	../dosth/testthread.py	/^def nothread():$/;"	kind:function	line:49
+num	../funnytest/tencent.py	/^    num = int(raw_input())$/;"	kind:variable	line:3
+operator	../cookbooktest/c1_t14.py	/^import operator$/;"	kind:namespace	line:3
+operator	../dosth/testmapreducemultiprocess.py	/^    import operator$/;"	kind:namespace	line:95
+operator	../dosth/url.py	/^    import operator$/;"	kind:namespace	line:83
+os	../cythontest/cythontest.py	/^import os$/;"	kind:namespace	line:6
+os	../dosth/prasexml.py	/^import os$/;"	kind:namespace	line:6
+os	../wechattest/results.py	/^import os$/;"	kind:namespace	line:10
+out	../funnytest/pisoundsocket.py	/^out = stdout.readlines()$/;"	kind:variable	line:20
+out_edges	../dosth/mostprointonline.py	/^    def out_edges(self, v):$/;"	kind:member	line:127
+out_vertices	../dosth/mostprointonline.py	/^    def out_vertices(self, v):$/;"	kind:member	line:123
+paly	../funnytest/dobo.py	/^    def paly(self):$/;"	kind:member	line:13
+paramiko	../funnytest/pisoundsocket.py	/^import paramiko$/;"	kind:namespace	line:4
+parse	../funnytest/jsonfiletest.py	/^from urllib import request, parse$/;"	kind:namespace	line:5
+parse_command_line	../coroutinetest/tormmotest.py	/^from tornado.options import parse_command_line$/;"	kind:namespace	line:4
+partition	../dosth/testmapreducemultiprocess.py	/^    def partition(self, mapped_values):$/;"	kind:member	line:36
+partition	../dosth/url.py	/^    def partition(self, mapped_values):$/;"	kind:member	line:38
+password	../funnytest/pisoundsocket.py	/^password = 'wy'$/;"	kind:variable	line:12
+pika	../celerytest/rabbittest.py	/^import pika$/;"	kind:namespace	line:3
+pisoundsocket.py	../funnytest/pisoundsocket.py	1;"	kind:file	line:1
+platform	../coroutinetest/testcoroutines.py	/^    import platform$/;"	kind:namespace	line:39
+platform	../dosth/remotedevtest.py	/^import platform$/;"	kind:namespace	line:4
+platform	../dosth/testthread.py	/^import platform$/;"	kind:namespace	line:5
+port	../cythontest/cythontest.py	/^    port = b"15113"$/;"	kind:variable	line:25
+port	../funnytest/pisoundsocket.py	/^port = 8022$/;"	kind:variable	line:10
+port	../sockettest/tcpserver_base.py	/^port = 13001$/;"	kind:variable	line:28
+post	../elasitctest/mongo_replica_set.py	/^    post = {$/;"	kind:variable	line:16
+postgretest.py	../dbtest/postgretest.py	1;"	kind:file	line:1
+praisewithzhengze.py	../funnytest/praisewithzhengze.py	1;"	kind:file	line:1
+prasexml.py	../dosth/prasexml.py	1;"	kind:file	line:1
+prasezhishus	../dosth/prasexml.py	/^def prasezhishus(strings):$/;"	kind:function	line:14
+printSome	../celerytest/rabbittest.py	/^def printSome():$/;"	kind:function	line:15
+print_sum	../coroutinetest/testsum.py	/^async def print_sum(x, y):$/;"	kind:function	line:8
+printer	../coroutinetest/testcoroutines.py	/^def printer():$/;"	kind:function	line:32
+printt	../coroutinetest/testcoroutines.py	/^    printt = printer()$/;"	kind:variable	line:42
+produce	../coroutinetest/test1.py	/^def produce(c):$/;"	kind:function	line:16
+produce	../threadmulittest/threadtest3.py	/^def produce():$/;"	kind:function	line:12
+producer	../dosth/testthread.py	/^    def producer():$/;"	kind:function	line:212
+producer	../dosth/testthread.py	/^    def producer():$/;"	kind:function	line:251
+producer	../dosth/testthread.py	/^    def producer(cond):$/;"	kind:function	line:137
+producer	../dosth/testthread.py	/^    def producer(event, l):$/;"	kind:function	line:176
+product	../threadmulittest/threadtest3.py	/^product = None$/;"	kind:variable	line:6
+psycopg2	../coroutinetest/tormmotest.py	/^import psycopg2$/;"	kind:namespace	line:7
+psycopg2	../dbtest/postgretest.py	/^import psycopg2$/;"	kind:namespace	line:4
+quadra	../dosth/testthread.py	/^def quadra(strings):$/;"	kind:function	line:291
+r	../dosth/url2.py	/^                r = requests.get('http:\/\/192.168.223.63\/query?url={}'.format(line), timeout=1)$/;"	kind:variable	line:12
+rabbittest.py	../celerytest/rabbittest.py	1;"	kind:file	line:1
+randint	../dosth/testthread.py	/^    from random import randint$/;"	kind:namespace	line:156
+randint	../dosth/testthread.py	/^    from random import randint$/;"	kind:namespace	line:232
+randint	../dosth/testthread.py	/^from random import randint$/;"	kind:namespace	line:9
+random	../dosth/testthread.py	/^    from random import random$/;"	kind:namespace	line:204
+re	../cookbooktest/c2_t2.py	/^import re$/;"	kind:namespace	line:2
+re	../elasitctest/test_sphinx_api.py	/^import re$/;"	kind:namespace	line:20
+re	../funnytest/jsonfiletest.py	/^import re$/;"	kind:namespace	line:3
+re	../funnytest/praisewithzhengze.py	/^import re$/;"	kind:namespace	line:4
+redis	../elasitctest/redisttest.py	/^import redis$/;"	kind:namespace	line:4
+redisttest.py	../elasitctest/redisttest.py	1;"	kind:file	line:1
+remotedevtest.py	../dosth/remotedevtest.py	1;"	kind:file	line:1
+req	../funnytest/jsonfiletest.py	/^req = request.Request(url)$/;"	kind:variable	line:25
+request	../funnytest/jsonfiletest.py	/^from urllib import request, parse$/;"	kind:namespace	line:5
+requests	../dosth/prasexml.py	/^import requests$/;"	kind:namespace	line:4
+requests	../dosth/url.py	/^import requests$/;"	kind:namespace	line:5
+requests	../dosth/url2.py	/^import requests$/;"	kind:namespace	line:4
+requests	../elasitctest/elasticsearchtest2.py	/^import requests$/;"	kind:namespace	line:3
+requests	../wechattest/getwechttoken.py	/^import requests$/;"	kind:namespace	line:1
+requesttest.py	../funnytest/requesttest.py	1;"	kind:file	line:1
+res	../elasitctest/elasticsearchtext1.py	/^    res = es.search(index="test", doc_type="articles", body={"query": {"match": {"content": "fox"}}})$/;"	kind:variable	line:5
+res_body	../funnytest/jsonfiletest.py	/^    res_body = json_res.get('showapi_res_body')$/;"	kind:variable	line:31
+results.py	../wechattest/results.py	1;"	kind:file	line:1
+retbuf	../cythontest/cythontest.py	/^    retbuf = create_string_buffer(2048)$/;"	kind:variable	line:27
+retlen	../cythontest/cythontest.py	/^    retlen = 2048$/;"	kind:variable	line:28
+rlock	../threadmulittest/threadtes2.py	/^rlock = threading.RLock()$/;"	kind:variable	line:5
+row	../dbtest/postgretest.py	/^    row = cur.fetchall()$/;"	kind:variable	line:12
+run	../asynctest/asyncpgtest.py	/^async def run():$/;"	kind:function	line:4
+run	../dosth/testthread.py	/^    def run(self):$/;"	kind:member	line:302
+s	../sockettest/tcpclient_base.py	/^s = socket(AF_INET, SOCK_STREAM)$/;"	kind:variable	line:5
+search	../elasitctest/elasticsearchtest2.py	/^def search(uri, term):$/;"	kind:function	line:7
+select	../elasitctest/test_sphinx_api.py	/^import select$/;"	kind:namespace	line:18
+send_data	../funnytest/jsonfiletest.py	/^send_data = parse.urlencode([$/;"	kind:variable	line:18
+shellrun	../fabrictest/fabrictest.py	/^from shellrun import shellrun$/;"	kind:namespace	line:5
+show_thread_itself	../dosth/testthread.py	/^def show_thread_itself(arg):$/;"	kind:function	line:30
+showapi_appid	../funnytest/jsonfiletest.py	/^showapi_appid="xxxxxxxxxxxx"$/;"	kind:variable	line:15
+showapi_res_body	../funnytest/praisewithzhengze.py	/^        showapi_res_body = json_res.get()$/;"	kind:variable	line:25
+showapi_sign	../funnytest/jsonfiletest.py	/^showapi_sign="xxxxxxxxxxxxxxxxxxxxxxxx"$/;"	kind:variable	line:16
+sleep	../celerytest/rabbittest.py	/^from time import sleep$/;"	kind:namespace	line:5
+sleep	../wechattest/results.py	/^from time import sleep$/;"	kind:namespace	line:12
+slow_operation	../coroutinetest/asynciotest.py	/^def slow_operation(n):$/;"	kind:function	line:9
+socket	../elasitctest/test_sphinx_api.py	/^import socket$/;"	kind:namespace	line:19
+sol	../funnytest/exam1.py	/^    sol = Solution()$/;"	kind:variable	line:27
+somequsetion.py	../wechattest/somequsetion.py	1;"	kind:file	line:1
+songsinfo	../funnytest/jsonfiletest.py	/^    songsinfo = res_body['pagebean']['contentlist']$/;"	kind:variable	line:32
+sort_notcompare	../cookbooktest/c1_t14.py	/^def sort_notcompare():$/;"	kind:function	line:14
+sphinx.py	../elasitctest/sphinx.py	1;"	kind:file	line:1
+ssh	../funnytest/pisoundsocket.py	/^ssh = paramiko.SSHClient()$/;"	kind:variable	line:13
+start	../coroutinetest/testcoroutines.py	/^    def start(*args, **kwargs):$/;"	kind:function	line:11
+start	../funnytest/amathaddtest.py	/^    start = time.time()$/;"	kind:variable	line:61
+start.py	../xlrdtest/start.py	1;"	kind:file	line:1
+str_res	../funnytest/jsonfiletest.py	/^    str_res= f.read().decode('utf-8')$/;"	kind:variable	line:28
+str_res	../funnytest/praisewithzhengze.py	/^        str_res = f.read().decode('utf-8')$/;"	kind:variable	line:21
+string	../dosth/testmapreducemultiprocess.py	/^import string$/;"	kind:namespace	line:8
+string	../dosth/url.py	/^import string$/;"	kind:namespace	line:10
+string	../funnytest/AtoZ.py	/^import string$/;"	kind:namespace	line:8
+sys	../elasitctest/test_sphinx_api.py	/^import sys$/;"	kind:namespace	line:17
+sys	../funnytest/jsonfiletest.py	/^import sys$/;"	kind:namespace	line:2
+t	../sockettest/tcpserver_base.py	/^    t = threading.Thread(target=tcpadd, args=(tcpclisock, addr))$/;"	kind:variable	line:41
+t1	../threadmulittest/threadtes2.py	/^t1 = threading.Thread(target=func)$/;"	kind:variable	line:31
+t1	../threadmulittest/threadtest1.py	/^t1 = threading.Thread(target=func)$/;"	kind:variable	line:26
+t1	../threadmulittest/threadtest3.py	/^t1 = threading.Thread(target=produce)$/;"	kind:variable	line:47
+t2	../threadmulittest/threadtes2.py	/^t2 = threading.Thread(target=func)$/;"	kind:variable	line:32
+t2	../threadmulittest/threadtest1.py	/^t2 = threading.Thread(target=func)$/;"	kind:variable	line:27
+t2	../threadmulittest/threadtest3.py	/^t2 = threading.Thread(target=consume)$/;"	kind:variable	line:48
+t3	../threadmulittest/threadtes2.py	/^t3 = threading.Thread(target=func)$/;"	kind:variable	line:33
+t3	../threadmulittest/threadtest1.py	/^t3 = threading.Thread(target=func)$/;"	kind:variable	line:28
+tcpadd	../sockettest/tcpserver_base.py	/^def tcpadd(tcpclisock, addr):$/;"	kind:function	line:8
+tcpclient_base.py	../sockettest/tcpclient_base.py	1;"	kind:file	line:1
+tcpsersock	../sockettest/tcpserver_base.py	/^tcpsersock = socket(AF_INET, SOCK_STREAM)$/;"	kind:variable	line:31
+tcpserver_base.py	../sockettest/tcpserver_base.py	1;"	kind:file	line:1
+tencent.py	../funnytest/tencent.py	1;"	kind:file	line:1
+teskmin.py	../celerytest/tesks/teskmin.py	1;"	kind:file	line:1
+test	../xlrdtest/start.py	/^def test():$/;"	kind:function	line:8
+test1	../dosth/testthread.py	/^    def test1():$/;"	kind:function	line:98
+test1.py	../coroutinetest/test1.py	1;"	kind:file	line:1
+test2	../dosth/testthread.py	/^    def test2():$/;"	kind:function	line:109
+test_sphinx_api.py	../elasitctest/test_sphinx_api.py	1;"	kind:file	line:1
+test_threading_pool	../dosth/testthread.py	/^def test_threading_pool():$/;"	kind:function	line:330
+testcoroutines.py	../coroutinetest/testcoroutines.py	1;"	kind:file	line:1
+testmapreducemultiprocess.py	../dosth/testmapreducemultiprocess.py	1;"	kind:file	line:1
+testsocket.py	../dosth/testsocket.py	1;"	kind:file	line:1
+testsum.py	../coroutinetest/testsum.py	1;"	kind:file	line:1
+testthread.py	../dosth/testthread.py	1;"	kind:file	line:1
+testyield.py	../coroutinetest/testyield.py	1;"	kind:file	line:1
+text	../cookbooktest/c2_t2.py	/^    text = 'Today is 11\/25\/2016. PyCon starts 10\/15\/2016.'$/;"	kind:variable	line:24
+threading	../dosth/testthread.py	/^import threading$/;"	kind:namespace	line:4
+threading	../sockettest/tcpserver_base.py	/^import threading$/;"	kind:namespace	line:3
+threading	../threadmulittest/threadtes2.py	/^import threading$/;"	kind:namespace	line:2
+threading	../threadmulittest/threadtest1.py	/^import threading$/;"	kind:namespace	line:2
+threading	../threadmulittest/threadtest3.py	/^import threading$/;"	kind:namespace	line:2
+threadtes2.py	../threadmulittest/threadtes2.py	1;"	kind:file	line:1
+threadtest1.py	../threadmulittest/threadtest1.py	1;"	kind:file	line:1
+threadtest3.py	../threadmulittest/threadtest3.py	1;"	kind:file	line:1
+time	../coroutinetest/asynciotest.py	/^import time$/;"	kind:namespace	line:5
+time	../coroutinetest/testcoroutines.py	/^import time$/;"	kind:namespace	line:6
+time	../dosth/testthread.py	/^        import time$/;"	kind:namespace	line:22
+time	../dosth/testthread.py	/^import time$/;"	kind:namespace	line:6
+time	../dosth/url.py	/^import time$/;"	kind:namespace	line:6
+time	../dosth/url2.py	/^import time$/;"	kind:namespace	line:5
+time	../funnytest/amathaddtest.py	/^import time$/;"	kind:namespace	line:10
+time	../funnytest/pisoundsocket.py	/^import time$/;"	kind:namespace	line:5
+time	../sockettest/tcpclient_base.py	/^import time$/;"	kind:namespace	line:3
+time	../sockettest/tcpserver_base.py	/^import time$/;"	kind:namespace	line:5
+time	../threadmulittest/threadtes2.py	/^import time$/;"	kind:namespace	line:3
+time	../threadmulittest/threadtest1.py	/^import time$/;"	kind:namespace	line:3
+time	../threadmulittest/threadtest3.py	/^import time$/;"	kind:namespace	line:3
+time	../wechattest/results.py	/^import time$/;"	kind:namespace	line:9
+timeasynctest.py	../coroutinetest/timeasynctest.py	1;"	kind:file	line:1
+timeit	../dosth/testthread.py	/^def timeit(func):$/;"	kind:function	line:19
+timeit	../funnytest/acputest.py	/^from dosth.testthread import timeit$/;"	kind:namespace	line:4
+tordamo.py	../asynctest/tordamo.py	1;"	kind:file	line:1
+tormmotest.py	../coroutinetest/tormmotest.py	1;"	kind:file	line:1
+total	../funnytest/tencent.py	/^    total = 0$/;"	kind:variable	line:5
+treeinsert.py	../xlrdtest/treeinsert.py	1;"	kind:file	line:1
+triple	../dosth/testthread.py	/^    def triple(n):$/;"	kind:function	line:237
+udpquery	../cythontest/cythontest.py	/^udpquery = _mod.udpquery$/;"	kind:variable	line:13
+uploadfile.py	../sockettest/uploadfile.py	1;"	kind:file	line:1
+url	../cythontest/cythontest.py	/^    url = b"gayhub.com"$/;"	kind:variable	line:21
+url	../funnytest/jsonfiletest.py	/^url="http:\/\/route.showapi.com\/213-1"$/;"	kind:variable	line:17
+url.py	../dosth/url.py	1;"	kind:file	line:1
+url2.py	../dosth/url2.py	1;"	kind:file	line:1
+urllibtest.py	../dosth/urllibtest.py	1;"	kind:file	line:1
+username	../funnytest/pisoundsocket.py	/^username = 'pi'$/;"	kind:variable	line:11
+version	../cythontest/cythontest.py	/^    version = b"1.0"$/;"	kind:variable	line:26
+vertices	../dosth/mostprointonline.py	/^    def vertices(self):$/;"	kind:member	line:68
+wait_complete	../dosth/testthread.py	/^    def wait_complete(self):$/;"	kind:member	line:325
+web	../coroutinetest/tormmotest.py	/^from tornado import web$/;"	kind:namespace	line:5
+webdriver	../wechattest/results.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+wechat_login_pc.py	../wechattest/wechat_login_pc.py	1;"	kind:file	line:1
+weighted_choice.py	../gotest/module/weighted_choice.py	1;"	kind:file	line:1
+width_first	../cookbooktest/c3_test.py	/^    def width_first(self):$/;"	kind:member	line:33
+withthread	../dosth/testthread.py	/^def withthread():$/;"	kind:function	line:55
+wrapper	../dosth/testthread.py	/^    def wrapper(*args, **kwargs):$/;"	kind:function	line:21
+xlrd	../wechattest/results.py	/^import xlrd$/;"	kind:namespace	line:11
+xlrd	../xlrdtest/start.py	/^import xlrd$/;"	kind:namespace	line:2
+xml	../dosth/prasexml.py	/^import xml.etree.ElementTree as ET$/;"	kind:namespace	line:5
