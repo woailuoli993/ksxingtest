@@ -31,7 +31,7 @@ versions=$*
 echo "versions is ${versions}"
 for version in $versions
 do
-    wget http://mirrors.sohu.com/python/$version/Python-$version.tar.xz -P ~/.pyenv/cache/
+    wget -N http://mirrors.sohu.com/python/$version/Python-$version.tar.xz -P ~/.pyenv/cache/
     pyenv install $version
 done
 
