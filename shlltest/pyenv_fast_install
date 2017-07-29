@@ -1,0 +1,37 @@
+#!/bin/bash
+
+if [ $# -lt 1 ]
+then
+cat << HELP
+
+
+NAME 
+        pyenv_fast_install - speedup pyenv install python from souhu mirror.
+
+SYNOPSIS
+        pyenv_fast_install VERSIONS...
+
+DESCROPION:
+        install python with correct versions used for pyenv.
+
+EXAMPLE: 
+        - speed up pyenv install 3.5.3:
+        pyenv_fast_install 3.5.3
+
+AUTHER
+        Written by vici.
+
+REPORTING & ISSUES
+        make a issue on <https://github.com/woailuoli993/test>
+
+HELP
+fi
+
+versions=$*
+echo "versions is ${versions}"
+for version in $versions
+do
+    wget http://mirrors.sohu.com/python/$version/Python-$version.tar.xz -P ~/.pyenv/cache/
+    pyenv install $version
+done
+

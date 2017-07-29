@@ -372,6 +372,7 @@ main	../dosth/remotedevtest.py	/^def main():$/;"	kind:function	line:6
 main	../dosth/testthread.py	/^def main():$/;"	kind:function	line:340
 main	../elasitctest/redisttest.py	/^def main():$/;"	kind:function	line:9
 main	../funnytest/dobo.py	/^def main():$/;"	kind:function	line:18
+main	../module/weighted_choice.py	/^def main():$/;"	kind:function	line:17
 main	../sockettest/uploadfile.py	/^def main():$/;"	kind:function	line:6
 main	../wechattest/results.py	/^def main():$/;"	kind:function	line:15
 math	../funnytest/tencent.py	/^import math$/;"	kind:namespace	line:1
@@ -445,6 +446,7 @@ randint	../dosth/testthread.py	/^    from random import randint$/;"	kind:namespa
 randint	../dosth/testthread.py	/^    from random import randint$/;"	kind:namespace	line:232
 randint	../dosth/testthread.py	/^from random import randint$/;"	kind:namespace	line:9
 random	../dosth/testthread.py	/^    from random import random$/;"	kind:namespace	line:204
+random	../module/weighted_choice.py	/^import random$/;"	kind:namespace	line:1
 re	../cookbooktest/c2_t2.py	/^import re$/;"	kind:namespace	line:2
 re	../elasitctest/test_sphinx_api.py	/^import re$/;"	kind:namespace	line:20
 re	../funnytest/jsonfiletest.py	/^import re$/;"	kind:namespace	line:3
@@ -570,7 +572,8 @@ wait_complete	../dosth/testthread.py	/^    def wait_complete(self):$/;"	kind:mem
 web	../coroutinetest/tormmotest.py	/^from tornado import web$/;"	kind:namespace	line:5
 webdriver	../wechattest/results.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
 wechat_login_pc.py	../wechattest/wechat_login_pc.py	1;"	kind:file	line:1
-weighted_choice.py	../gotest/module/weighted_choice.py	1;"	kind:file	line:1
+weighted_choice	../module/weighted_choice.py	/^def weighted_choice(dict_choice_to_weight):$/;"	kind:function	line:3
+weighted_choice.py	../module/weighted_choice.py	1;"	kind:file	line:1
 width_first	../cookbooktest/c3_test.py	/^    def width_first(self):$/;"	kind:member	line:33
 withthread	../dosth/testthread.py	/^def withthread():$/;"	kind:function	line:55
 wrapper	../dosth/testthread.py	/^    def wrapper(*args, **kwargs):$/;"	kind:function	line:21
