@@ -3,6 +3,7 @@
 # Created by vici on 08/08/2017
 # request: python version >= 3.4
 from functools import partialmethod, partial
+from sys import exit
 
 
 class TestPartical(object):

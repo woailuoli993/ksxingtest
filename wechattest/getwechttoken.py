@@ -1,6 +1,9 @@
-import requests
-from config import WECHAT_OFICAL_APPID, WECHAT_OFICAL_SCERCT
+from dosth.config import WECHAT_OFICAL_APPID, WECHAT_OFICAL_SCERCT
 from wechatpy import WeChatClient
+from wechatpy import WeChatClient
+
+from dosth.config import WECHAT_OFICAL_APPID, WECHAT_OFICAL_SCERCT
+
 
 def getWeChatToken():
     client = WeChatClient(WECHAT_OFICAL_APPID, WECHAT_OFICAL_SCERCT)

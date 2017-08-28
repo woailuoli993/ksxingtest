@@ -9,4 +9,5 @@ out
 gen
 .idea/workspace.xml
 config.py
+conf.py
 ### 将删除 .gitignore
