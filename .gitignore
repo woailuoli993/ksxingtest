@@ -10,4 +10,6 @@ gen
 .idea/workspace.xml
 config.py
 conf.py
+.*
+dosth/readfree_auto_sig.log
 ### 将删除 .gitignore
