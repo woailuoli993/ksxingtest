@@ -12,4 +12,5 @@ config.py
 conf.py
 .*
 dosth/readfree_auto_sig.log
+.python-version
 ### 将删除 .gitignore
