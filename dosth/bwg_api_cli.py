@@ -32,7 +32,7 @@ def get_info(ctx):
     click.echo(ctx.obj['api_box'].get_info())
 
 
-@cli.command('migrate', help='Get vm info.')
+@cli.command('migrate', help='Get vm ipc locations.')
 @click.pass_context
 def get_migrate(ctx):
     click.echo(ctx.obj['api_box'].get_migrate_locations())
